@@ -118,7 +118,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv14
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/SCTV15HD/manifest.mpd
 #EXTINF:-1 tvg-name="SCTV16 - PHIM NƯỚC NGOÀI ĐẶC SẮC HD" tvg-logo="https://i.imgur.com/ldCYtvt.png" group-title="SCTV",SCTV16 - PHIM NƯỚC NGOÀI ĐẶC SẮC HD
-https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv16
 #EXTINF:-1 tvg-id="sctv17" tvg-logo="https://vietanhtv.id.vn/logo/sctv17.png" group-title="SCTV",SCTV17 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -130,9 +130,9 @@ https://hoiquan.dpdns.org/VTVGo/?sctv18
 #EXTINF:-1 tvg-name="SCTV19 - Kênh T HD" tvg-logo="https://i.imgur.com/dKvkAtU.png" group-title="SCTV",SCTV19 - Kênh T HD
 https://hoiquan.dpdns.org/VTVGo/?sctv19
 #EXTINF:-1 tvg-name="SCTV20 - iTV HD" tvg-logo="https://i.postimg.cc/2SRL7shx/i-TV.png" group-title="SCTV",SCTV20 - iTV HD
-https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv20
 #EXTINF:-1 tvg-name="SCTV21 - VIỆT NAM KÝ ỨC HD" tvg-logo="https://i.imgur.com/onPtlVa.png" group-title="SCTV",SCTV21 - VIỆT NAM KÝ ỨC HD
-https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
+https://hoiquan.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-name="SCTV22 - SSPORT1 HD" tvg-logo="https://i.imgur.com/rDQvTAm.png" group-title="SCTV",SCTV22 - SSPORT1 HD
 https://hoiquan.dpdns.org/VTVGo/?sctv22
 #EXTINF:-1 tvg-name="SCTV PHIM TỔNG HỢP HD" tvg-logo="https://i.imgur.com/VzZYa4n.png" group-title="SCTV",SCTV PHIM TỔNG HỢP HD
