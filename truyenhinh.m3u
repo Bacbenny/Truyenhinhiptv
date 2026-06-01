@@ -31,13 +31,13 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgclient.duckdns.org/source/tv360.m3u8?id=180
 #EXTINF:-1 tvg-id="onsports" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d3/ON_Sports_logo_2022.png/revision/latest?cb=20220311023726&path-prefix=vi" group-title="VTVcab",ON Sports
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=200
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-3-on-sports/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="onsportsplus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/ON_Sports%2B_Logo.png" group-title="VTVcab",ON Sports+
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=203
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-6-on-sports/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1f/ON_Sports_News_logo_2022.png/revision/latest?cb=20220403050655&path-prefix=vi" group-title="VTVcab",ON Sports News
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=441
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-18-on-sports-news/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="onfootball" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ac/ON_Football_logo_2022.png/revision/latest?cb=20220311023748&path-prefix=vi" group-title="VTVcab",ON Football
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=208
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtvcab-16-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="onphimviet" tvg-logo="https://i.imgur.com/MPNlpzb.png" group-title="VTVcab",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://sgclient.duckdns.org/source/tv360.m3u8?id=175
