@@ -482,29 +482,66 @@ https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
 #EXTINF:-1 tvg-name="TV360+1" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/TV360%2B1.png/revision/latest?cb=20240528053858&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+1
-http://pk79.io.vn/tv360/play360.php?id=sk1
-#EXTINF:-1 tvg-name="TV360+2" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/30/TV360%2B2.png/revision/latest?cb=20240528053925&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+2
-http://pk79.io.vn/tv360/play360.php?id=sk2
-#EXTINF:-1 tvg-name="TV360+3" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f0/TV360%2B3.png/revision/latest?cb=20240528053951&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+3
-http://pk79.io.vn/tv360/play360.php?id=sk3
-#EXTINF:-1 tvg-name="TV360+4" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/TV360%2B4.png/revision/latest?cb=20240528054011&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+4
-http://pk79.io.vn/tv360/play360.php?id=sk4
-#EXTINF:-1 tvg-name="TV360+5" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b5/TV360%2B5.png/revision/latest?cb=20240919035709&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+5
-http://pk79.io.vn/tv360/play360.php?id=sk5
-#EXTINF:-1 tvg-name="TV360+6" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/TV360%2B6.png/revision/latest?cb=20240919035734&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+6
-http://pk79.io.vn/tv360/play360.php?id=sk6
-#EXTINF:-1 tvg-name="TV360+7" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6c/TV360%2B7.png/revision/latest?cb=20241007145504&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+7
-http://pk79.io.vn/tv360/play360.php?id=sk7
-#EXTINF:-1 tvg-name="TV360+8" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cc/TV360%2B8.png/revision/latest?cb=20241007145518&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+8
-http://pk79.io.vn/tv360/play360.php?id=sk8
-#EXTINF:-1 tvg-name="TV360+9" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d1/TV360%2B9.png/revision/latest?cb=20241001072711&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+9
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9887
-#EXTINF:-1 tvg-name="TV360+10" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bc/TV360%2B10.png/revision/latest?cb=20250924115553&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+10
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9957
-#EXTINF:-1 tvg-name="TV360+11" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/TV360%2B11.png/revision/latest?cb=20250924115617&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+11
-https://sgclient.duckdns.org/source/tv360.m3u8?id=9958
-#EXTINF:-1 tvg-name="TV360+12" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/42/TV360%2B12.png/revision/latest?cb=20260331025145&path-prefix=vi" group-title="Sự kiện (TV360)",TV360+12
-http://pk79.io.vn/tv360/play360.php?id=sk12
+#EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus1.png", TV360+1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus1
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2554
+#EXTINF:-1 tvg-id="tv360plus2" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus2.png", TV360+2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus2
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=1
+#EXTINF:-1 tvg-id="tv360plus3" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus3.png", TV360+3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus3
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=148
+#EXTINF:-1 tvg-id="tv360plus4" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus4.png", TV360+4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus4
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2458
+#EXTINF:-1 tvg-id="tv360plus5" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus5.png", TV360+5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus5
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9867
+#EXTINF:-1 tvg-id="tv360plus6" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus6.png", TV360+6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus6
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9868
+#EXTINF:-1 tvg-id="tv360plus7" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus7.png", TV360+7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus7
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9869
+#EXTINF:-1 tvg-id="tv360plus8" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus8.png", TV360+8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus8
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9870
+#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus9.png", TV360+9
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9887
+#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus10.png", TV360+10
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9957
+#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus11.png", TV360+11
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
+#EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://xemtvtructuyen.duckdns.org/logo/tv360plus12.png", TV360+12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus12
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
 #EXTINF:-1 tvg-name="|FR| CANAL+ FOOT 4K." tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="CANAL+ SPORT",|FR| CANAL+ FOOT 4K.
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256629
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="CANAL+ SPORT",|FR| CANAL+ SPORT 360 ᵁᴴᴰ
