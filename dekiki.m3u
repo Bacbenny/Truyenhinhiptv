@@ -167,11 +167,11 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-name="HTVC+" tvg-logo="https://i.imgur.com/SQ9cLJj.png" group-title="HTV/HTVC",HTVC+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="atv" tvg-name="ATV1 | Báo và Phát thanh – Truyền hình An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest?cb=20251109111844&path-prefix=vi" group-title="Địa phương",ATV1 | Báo và Phát thanh – Truyền hình An Giang
+#EXTINF:-1 tvg-id="angiang1" tvg-name="ATV1 | Báo và Phát thanh – Truyền hình An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest?cb=20251109111844&path-prefix=vi" group-title="Địa phương",ATV1 | Báo và Phát thanh – Truyền hình An Giang
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="atv2" tvg-name="ATV2 | Báo và Phát thanh – Truyền hình An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest?cb=20250823043314&path-prefix=vi" group-title="Địa phương",ATV2 | Báo và Phát thanh – Truyền hình An Giang
+#EXTINF:-1 tvg-id="angiang2" tvg-name="ATV2 | Báo và Phát thanh – Truyền hình An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest?cb=20250823043314&path-prefix=vi" group-title="Địa phương",ATV2 | Báo và Phát thanh – Truyền hình An Giang
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="atv3" tvg-name="ATV3 | Báo và Phát thanh – Truyền hình An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/ATV3_logo_09-07-2025.png/revision/latest?cb=20251109111209&path-prefix=vi" group-title="Địa phương",ATV3 | Báo và Phát thanh – Truyền hình An Giang
+#EXTINF:-1 tvg-id="angiang3" tvg-name="ATV3 | Báo và Phát thanh – Truyền hình An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/ATV3_logo_09-07-2025.png/revision/latest?cb=20251109111209&path-prefix=vi" group-title="Địa phương",ATV3 | Báo và Phát thanh – Truyền hình An Giang
 https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="hatinh" tvg-name="BHTTV | Báo và Phát thanh – Truyền hình Hà Tĩnh" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/BHT_TV_logo_c%C3%B3_website.png/revision/latest?cb=20250419234452&path-prefix=vi" group-title="Địa phương",BHTTV | Báo và Phát thanh – Truyền hình Hà Tĩnh
 https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
