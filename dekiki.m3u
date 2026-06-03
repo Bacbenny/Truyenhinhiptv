@@ -379,11 +379,11 @@ https://love.verowo7190.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
 https://love.verowo7190.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
 #EXTINF:-1 tvg-name="V Sport UHD" tvg-logo="http://tvfor.pro/img/images/Chanels/v_sport__uhd.png" group-title="Thể thao quốc tế",V Sport UHD
 http://ronaldo.tvfor.pro/ViasatGolf/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-name="Diema Sport HD" tvg-logo="http://tvfor.pro/img/images/Chanels/diema_sport_1.png" group-title="Thể thao quốc tế",Diema Sport HD [BG]
+#EXTINF:-1 tvg-name="Diema Sport HD" tvg-logo="http://tvfor.pro/img/images/Chanels/diema_sport_1.png" group-title="Thể thao quốc tế",Diema Sport HD
 http://ronaldo.tvfor.pro/59Xxas4T4N/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-name="Diema Sport 2 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/diema_sport_2.png" group-title="Thể thao quốc tế",Diema Sport 2 HD
 http://ronaldo.tvfor.pro/yEa58Rr77G/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
-#EXTINF:-1 tvg-name="Diema Sport 3 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/diema_sport_3.png" group-title="Thể thao quốc tế",Diema Sport 3 HD [BG]
+#EXTINF:-1 tvg-name="Diema Sport 3 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/diema_sport_3.png" group-title="Thể thao quốc tế",Diema Sport 3 HD
 http://ronaldo.tvfor.pro/394taY3pEN/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-name="DAZN 1" tvg-logo="http://51.158.145.100/picons/logos/PPV/DAZN.png" group-title="Thể thao quốc tế",DAZN 1
 http://line.main4k.com:80/8d1d003784/9fdbb7b821f5/1918192
@@ -541,6 +541,45 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus12
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
+#EXTM3U
+#EXTINF:-1 tvg-id="360-anime" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Anime
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-anime/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-bundesliga" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Bundesliga
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-bundesliga/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-c1-chau-au" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 C1 Châu Âu
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c1-chau-au/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-c2-chau-au" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 C2 Châu Âu
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c2-chau-au/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-c3-chau-au" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 C3 Châu Âu
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c3-chau-au/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-cong-thuc-1" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Công Thức 1
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-cong-thuc-1/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-golf" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Golf
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-golf/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-hai-tinh-cam" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Hài -Tình cảm
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hai-tinh-cam/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-hanh-dong-chau-a" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Hành động Châu Á
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hanh-dong-chau-a/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-hoa-ngu" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Hoa Ngữ
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hoa-ngu/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-k-drama" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 K-Drama
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-k-drama/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-phim-kinh-dien" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Phim Kinh điển
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-phim-kinh-dien/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-tennis" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Tennis
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="360-the-thao-chau-a" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",360 Thể Thao Châu Á
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-the-thao-chau-a/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="hoat-hinh" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",Hoạt hình
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="lck-roadshow" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",LCK Roadshow
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/lck-roadshow/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="phim-au-my" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",Phim Âu Mỹ
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="phim-viet" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",Phim Việt
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="tv360" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",TV360
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360/KenhCoBan.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ FOOT 4K." tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="CANAL+ SPORT",|FR| CANAL+ FOOT 4K.
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256629
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="CANAL+ SPORT",|FR| CANAL+ SPORT 360 ᵁᴴᴰ
