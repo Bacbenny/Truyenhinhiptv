@@ -239,33 +239,105 @@ https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-name="STV | Báo và Phát thanh – Truyền hình Sơn La" tvg-logo="https://i.imgur.com/xjkm6Zg.png" group-title="Địa phương",STV | Báo và Phát thanh – Truyền hình Sơn La
 https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-name="TayNinhTV | Báo và Phát thanh – Truyền hình Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest?cb=20251224141706&path-prefix=vi" group-title="Địa phương",TayNinhTV | Báo và Phát thanh – Truyền hình Tây Ninh
+##EXTINF:-1 tvg-id="atv" tvg-name="ATV1 | Báo và Phát thanh – Truyền hình An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/81/ATV1_logo_09-07-2025.png/revision/latest?cb=20251109111844&path-prefix=vi" group-title="Địa phương",ATV1 | Báo và Phát thanh – Truyền hình An Giang
+https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="atv2" tvg-name="ATV2 | Báo và Phát thanh – Truyền hình An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/ATV2_logo_09-07-2025.png/revision/latest?cb=20250823043314&path-prefix=vi" group-title="Địa phương",ATV2 | Báo và Phát thanh – Truyền hình An Giang
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="atv3" tvg-name="ATV3 | Báo và Phát thanh – Truyền hình An Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/ATV3_logo_09-07-2025.png/revision/latest?cb=20251109111209&path-prefix=vi" group-title="Địa phương",ATV3 | Báo và Phát thanh – Truyền hình An Giang
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hatinh" tvg-name="BHTTV | Báo và Phát thanh – Truyền hình Hà Tĩnh" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/24/BHT_TV_logo_c%C3%B3_website.png/revision/latest?cb=20250419234452&path-prefix=vi" group-title="Địa phương",BHTTV | Báo và Phát thanh – Truyền hình Hà Tĩnh
+https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="bacninh" tvg-name="BTV | Báo và Phát thanh – Truyền hình Bắc Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/BTV_Bac_Ninh_logo_2025.png/revision/latest/scale-to-width-down/600?cb=20250725122625&path-prefix=vi" group-title="Địa phương",BTV | Báo và Phát thanh – Truyền hình Bắc Ninh
+https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cantho" tvg-name="CầnThơ1 | Báo và Phát thanh – Truyền hình TP. Cần Thơ" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/53/C%E1%BA%A7nTh%C6%A11.png/revision/latest?cb=20250912112115&path-prefix=vi" group-title="Địa phương",CầnThơ1 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
+https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cantho2" tvg-name="CầnThơ2 | Báo và Phát thanh – Truyền hình TP. Cần Thơ" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c0/C%E1%BA%A7nTh%C6%A12.png/revision/latest?cb=20250912112238&path-prefix=vi" group-title="Địa phương",CầnThơ2 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
+https://live.fptplay53.net/epzsd1/cantho02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cantho3" tvg-name="CầnThơ3 | Báo và Phát thanh – Truyền hình TP. Cần Thơ" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/13/C%E1%BA%A7nTh%C6%A13.png/revision/latest?cb=20250912112412&path-prefix=vi" group-title="Địa phương",CầnThơ3 | Báo và Phát thanh – Truyền hình TP. Cần Thơ
+https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="caobang" tvg-name="CRTV | Báo và Phát thanh – Truyền hình Cao Bằng" tvg-logo="https://i.imgur.com/kETe9LN.png" group-title="Địa phương",CRTV | Báo và Phát thanh – Truyền hình Cao Bằng
+https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="camau" tvg-name="CTV | Báo và Phát thanh – Truyền hình Cà Mau" tvg-logo="https://i.imgur.com/ZKV1ok2.png" group-title="Địa phương",CTV | Báo và Phát thanh – Truyền hình Cà Mau
+https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dongnai" tvg-name="ĐNNRTV1 | Báo và Phát thanh – Truyền hình TP. Đồng Nai" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/af/%C4%90NNRTV1.png/revision/latest?cb=20250902053416&path-prefix=vi" group-title="Địa phương",ĐNNRTV1 | Báo và Phát thanh – Truyền hình TP. Đồng Nai
+https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐNNRTV2 | Báo và Phát thanh – Truyền hình TP. Đồng Nai" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/%C4%90NNRTV2.png/revision/latest?cb=20250902053524&path-prefix=vi" group-title="Địa phương",ĐNNRTV2 | Báo và Phát thanh – Truyền hình TP. Đồng Nai
+https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="danang" tvg-name="DNRT1 | Báo và Phát thanh – Truyền hình TP. Đà Nẵng" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f7/DNRT1_logo_30.06-04.07.2025.png/revision/latest?cb=20250704001110&path-prefix=vi" group-title="Địa phương",DNRT1 | Báo và Phát thanh – Truyền hình TP. Đà Nẵng
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="danang2" tvg-name="DNRT2 | Báo và Phát thanh – Truyền hình TP. Đà Nẵng" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/DNRT2_logo_30.06-04.07.2025.png/revision/latest?cb=20250704000953&path-prefix=vi" group-title="Địa phương",DNRT2 | Báo và Phát thanh – Truyền hình TP. Đà Nẵng
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="daklak" tvg-name="DRT | Báo và Phát thanh – Truyền hình Đắk Lắk" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/40/DRT_logo_2015_%28Dak_Lak%29.svg/revision/latest/scale-to-width-down/1000?cb=20230203121915&path-prefix=vi" group-title="Địa phương",DRT | Báo và Phát thanh – Truyền hình Đắk Lắk
+https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dienbien" tvg-name="ĐTV | Báo và Phát thanh – Truyền hình Điện Biên" tvg-logo="https://i.imgur.com/hMDRDxN.png" group-title="Địa phương",ĐTV | Báo và Phát thanh – Truyền hình Điện Biên
+https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="gialai" tvg-name="GTV | Báo và Phát thanh – Truyền hình Gia Lai" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/GTV_Gia_Lai.png/revision/latest?cb=20250729030224&path-prefix=vi" group-title="Địa phương",GTV | Báo và Phát thanh – Truyền hình Gia Lai
+https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hanoi1" tvg-name="HanoiTV1 | Báo và Phát thanh – Truyền hình Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/cb/HanoiTV1_2026.png/revision/latest?cb=20260409035850&path-prefix=vi" group-title="Địa phương",HanoiTV1 | Báo và Phát thanh – Truyền hình Hà Nội
+https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="hanoi2" tvg-name="HanoiTV2 | Báo và Phát thanh – Truyền hình Hà Nội" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0b/HanoiTV2_2026.png/revision/latest?cb=20260409035859&path-prefix=vi" group-title="Địa phương",HanoiTV2 | Báo và Phát thanh – Truyền hình Hà Nội
+https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="hue" tvg-name="HueTV | Báo và Phát thanh – Truyền hình TP. Huế" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d8/HUETV_logo_03-2025.png/revision/latest?cb=20250514084445&path-prefix=vi" group-title="Địa phương",HueTV | Báo và Phát thanh – Truyền hình TP. Huế
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="hungyen" tvg-name="HY | Báo và Phát thanh – Truyền hình Hưng Yên" tvg-logo="https://i.imgur.com/JAglyuT.png" group-title="Địa phương",HY | Báo và Phát thanh – Truyền hình Hưng Yên
+https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="khanhhoa" tvg-name="KTV | Báo và Phát thanh – Truyền hình Khánh Hòa" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/KTV_logo.png/revision/latest?cb=20260101114303&path-prefix=vi" group-title="Địa phương",KTV | Báo và Phát thanh – Truyền hình Khánh Hòa
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="khanhhoa" tvg-name="KTV1 | Báo và Phát thanh – Truyền hình Khánh Hòa" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/ba/KTV1_logo.png/revision/latest?cb=20260101114305&path-prefix=vi" group-title="Địa phương",KTV1 | Báo và Phát thanh – Truyền hình Khánh Hòa
+https://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="langson" tvg-name="LSTV | Báo và Phát thanh – Truyền hình Lạng Sơn" tvg-logo="https://i.imgur.com/yxz02UD.png" group-title="Địa phương",LSTV | Báo và Phát thanh – Truyền hình Lạng Sơn
+https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="laichau" tvg-name="LTV | Báo và Phát thanh – Truyền hình Lai Châu" tvg-logo="https://i.imgur.com/n02cvKQ.png" group-title="Địa phương",LTV | Báo và Phát thanh – Truyền hình Lai Châu
+https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="lamdong" tvg-name="LTV1 | Báo và Phát thanh – Truyền hình Lâm Đồng" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/92/LTV1_Lam_Dong_logo.png/revision/latest?cb=20260213000053&path-prefix=vi" group-title="Địa phương",LTV1 | Báo và Phát thanh – Truyền hình Lâm Đồng
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="lamdong2" tvg-name="LTV2 | Báo và Phát thanh – Truyền hình Lâm Đồng" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/LTV2_Lam_Dong_logo.png/revision/latest?cb=20251021013924&path-prefix=vi" group-title="Địa phương",LTV2 | Báo và Phát thanh – Truyền hình Lâm Đồng
+https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ninhbinh" tvg-name="NBTV | Báo và Phát thanh – Truyền hình Ninh Bình" tvg-logo="https://i.imgur.com/pL4NqYO.png" group-title="Địa phương",NBTV | Báo và Phát thanh – Truyền hình Ninh Bình
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="nghean" tvg-name="NTV | Báo và Phát thanh – Truyền hình Nghệ An" tvg-logo="https://i.imgur.com/FLvFSLS.png" group-title="Địa phương",NTV | Báo và Phát thanh – Truyền hình Nghệ An
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="phutho" tvg-name="PTV | Báo và Phát thanh – Truyền hình Phú Thọ" tvg-logo="https://i.imgur.com/LXuRwJY.png" group-title="Địa phương",PTV | Báo và Phát thanh – Truyền hình Phú Thọ
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="quangngai" tvg-name="QNgTV1 | Báo và Phát thanh – Truyền hình Quảng Ngãi" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/QNgTV1.png/revision/latest?cb=20260114143704&path-prefix=vi" group-title="Địa phương",QNgTV1 | Báo và Phát thanh – Truyền hình Quảng Ngãi
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="quangngai2" tvg-name="QNgTV2 | Báo và Phát thanh – Truyền hình Quảng Ngãi" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest?cb=20260114143705&path-prefix=vi" group-title="Địa phương",QNgTV2 | Báo và Phát thanh – Truyền hình Quảng Ngãi
+http://hoangai.dpdns.org:8082/mytv/get1.php?id=173
+#EXTINF:-1 tvg-id="quangtri" tvg-name="QTTV | Báo và Phát thanh – Truyền hình Quảng Trị" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/QTTV.png/revision/latest?cb=20250705100526&path-prefix=vi" group-title="Địa phương",QTTV | Báo và Phát thanh – Truyền hình Quảng Trị
+https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="quangninh" tvg-name="QTV1 | Báo và Phát thanh – Truyền hình Quảng Ninh" tvg-logo="https://i.imgur.com/KVia0uU.png" group-title="Địa phương",QTV1 | Báo và Phát thanh – Truyền hình Quảng Ninh
+https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+#EXTINF:-1 tvg-id="quangninh3" tvg-name="QTV3 | Báo và Phát thanh – Truyền hình Quảng Ninh" tvg-logo="https://i.imgur.com/ci6kzgL.png" group-title="Địa phương",QTV3 | Báo và Phát thanh – Truyền hình Quảng Ninh
+https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
+#EXTINF:-1 tvg-id="sonla" tvg-name="STV | Báo và Phát thanh – Truyền hình Sơn La" tvg-logo="https://i.imgur.com/xjkm6Zg.png" group-title="Địa phương",STV | Báo và Phát thanh – Truyền hình Sơn La
+https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="tayninh" tvg-name="TayNinhTV | Báo và Phát thanh – Truyền hình Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest?cb=20251224141706&path-prefix=vi" group-title="Địa phương",TayNinhTV | Báo và Phát thanh – Truyền hình Tây Ninh
 http://hoangai.dpdns.org:8082/mytv/get1.php?id=47
-#EXTINF:-1 tvg-name="THĐT1 | Báo và Phát thanh – Truyền hình Đồng Tháp" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="Địa phương",THĐT1 | Báo và Phát thanh – Truyền hình Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap" tvg-name="THĐT1 | Báo và Phát thanh – Truyền hình Đồng Tháp" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="Địa phương",THĐT1 | Báo và Phát thanh – Truyền hình Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-name="THĐT2 – Miền Tây | Báo và Phát thanh – Truyền hình Đồng Tháp" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="Địa phương",THĐT2 – Miền Tây | Báo và Phát thanh – Truyền hình Đồng Tháp
+#EXTINF:-1 tvg-id="dongthap2" tvg-name="THĐT2 – Miền Tây | Báo và Phát thanh – Truyền hình Đồng Tháp" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="Địa phương",THĐT2 – Miền Tây | Báo và Phát thanh – Truyền hình Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-name="THLC | Báo và Phát thanh – Truyền hình Lào Cai" tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="Địa phương",THLC | Báo và Phát thanh – Truyền hình Lào Cai
+#EXTINF:-1 tvg-id="laocai" tvg-name="THLC | Báo và Phát thanh – Truyền hình Lào Cai" tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="Địa phương",THLC | Báo và Phát thanh – Truyền hình Lào Cai
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="THP | Báo và Phát thanh – Truyền hình Hải Phòng" tvg-logo="https://i.imgur.com/iq9JLb9.png" group-title="Địa phương",THP | Báo và Phát thanh – Truyền hình Hải Phòng
+#EXTINF:-1 tvg-id="haiphong" tvg-name="THP | Báo và Phát thanh – Truyền hình Hải Phòng" tvg-logo="https://i.imgur.com/iq9JLb9.png" group-title="Địa phương",THP | Báo và Phát thanh – Truyền hình Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-name="THP3 | Báo và Phát thanh – Truyền hình Hải Phòng" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/00/THP3.png/revision/latest?cb=20250705010529&path-prefix=vi" group-title="Địa phương",THP3 | Báo và Phát thanh – Truyền hình Hải Phòng
+#EXTINF:-1 tvg-id="haiphong3" tvg-name="THP3 | Báo và Phát thanh – Truyền hình Hải Phòng" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/00/THP3.png/revision/latest?cb=20250705010529&path-prefix=vi" group-title="Địa phương",THP3 | Báo và Phát thanh – Truyền hình Hải Phòng
 https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-name="THVL1 | Báo và Phát thanh – Truyền hình Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/THVL1_logo_ch%C3%ADnh_2017-2025.png/revision/latest?cb=20231102084806&path-prefix=vi" group-title="Địa phương",THVL1 | Báo và Phát thanh – Truyền hình Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong1" tvg-name="THVL1 | Báo và Phát thanh – Truyền hình Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/37/THVL1_logo_ch%C3%ADnh_2017-2025.png/revision/latest?cb=20231102084806&path-prefix=vi" group-title="Địa phương",THVL1 | Báo và Phát thanh – Truyền hình Vĩnh Long
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-name="THVL2 | Báo và Phát thanh – Truyền hình Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/THVL2_logo_ch%C3%ADnh_2017-2025.png/revision/latest?cb=20231102084807&path-prefix=vi" group-title="Địa phương",THVL2 | Báo và Phát thanh – Truyền hình Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong2" tvg-name="THVL2 | Báo và Phát thanh – Truyền hình Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/THVL2_logo_ch%C3%ADnh_2017-2025.png/revision/latest?cb=20231102084807&path-prefix=vi" group-title="Địa phương",THVL2 | Báo và Phát thanh – Truyền hình Vĩnh Long
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-name="THVL3 | Báo và Phát thanh – Truyền hình Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/THVL3_logo.png/revision/latest?cb=20220505105258&path-prefix=vi" group-title="Địa phương",THVL3 | Báo và Phát thanh – Truyền hình Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong3" tvg-name="THVL3 | Báo và Phát thanh – Truyền hình Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4c/THVL3_logo.png/revision/latest?cb=20220505105258&path-prefix=vi" group-title="Địa phương",THVL3 | Báo và Phát thanh – Truyền hình Vĩnh Long
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-name="THVL4 | Báo và Phát thanh – Truyền hình Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/THVL4_logo.png/revision/latest?cb=20220505105305&path-prefix=vi" group-title="Địa phương",THVL4 | Báo và Phát thanh – Truyền hình Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong4" tvg-name="THVL4 | Báo và Phát thanh – Truyền hình Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/THVL4_logo.png/revision/latest?cb=20220505105305&path-prefix=vi" group-title="Địa phương",THVL4 | Báo và Phát thanh – Truyền hình Vĩnh Long
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-name="THVL5 | Báo và Phát thanh – Truyền hình Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/47/THVL5_logo.png/revision/latest?cb=20250903134313&path-prefix=vi" group-title="Địa phương",THVL5 | Báo và Phát thanh – Truyền hình Vĩnh Long
+#EXTINF:-1 tvg-id="vinhlong5" tvg-name="THVL5 | Báo và Phát thanh – Truyền hình Vĩnh Long" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/47/THVL5_logo.png/revision/latest?cb=20250903134313&path-prefix=vi" group-title="Địa phương",THVL5 | Báo và Phát thanh – Truyền hình Vĩnh Long
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-name="TN | Báo và Phát thanh – Truyền hình Thái Nguyên" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/TN_logo_2025.png/revision/latest?cb=20250707111207&path-prefix=vi" group-title="Địa phương",TN | Báo và Phát thanh – Truyền hình Thái Nguyên
+#EXTINF:-1 tvg-id="thainguyen" tvg-name="TN | Báo và Phát thanh – Truyền hình Thái Nguyên" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/11/TN_logo_2025.png/revision/latest?cb=20250707111207&path-prefix=vi" group-title="Địa phương",TN | Báo và Phát thanh – Truyền hình Thái Nguyên
 https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-name="TTV | Báo và Phát thanh – Truyền hình Thanh Hóa" tvg-logo="https://i.imgur.com/UwTCbZ5.png" group-title="Địa phương",TTV | Báo và Phát thanh – Truyền hình Thanh Hóa
+#EXTINF:-1 tvg-id="thanhhoa" tvg-name="TTV | Báo và Phát thanh – Truyền hình Thanh Hóa" tvg-logo="https://i.imgur.com/UwTCbZ5.png" group-title="Địa phương",TTV | Báo và Phát thanh – Truyền hình Thanh Hóa
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
-#EXTINF:-1 tvg-name="TTV | Báo và Phát thanh – Truyền hình Tuyên Quang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/TTV_Tuy%C3%AAn_Quang.png/revision/latest/scale-to-width-down/1000?cb=20220731123650&path-prefix=vi" group-title="Địa phương",TTV | Báo và Phát thanh – Truyền hình Tuyên Quang
+#EXTINF:-1 tvg-id="tuyenquang" tvg-name="TTV | Báo và Phát thanh – Truyền hình Tuyên Quang" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/TTV_Tuy%C3%AAn_Quang.png/revision/latest/scale-to-width-down/1000?cb=20220731123650&path-prefix=vi" group-title="Địa phương",TTV | Báo và Phát thanh – Truyền hình Tuyên Quang
 https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-name="ABC Australia" tvg-logo="https://i.imgur.com/qQ33TVM.png" group-title="Quốc Tế",ABC Australia
 https://s935.cdn.mytvnet.vn/pkg20/live_dzones/aplus.smil/manifest.mpd
