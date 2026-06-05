@@ -323,13 +323,13 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="TV5Monde Asie" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2f/TV5Monde_2025.png/revision/latest?cb=20251019134025&path-prefix=vi" group-title="Quốc Tế",TV5Monde Asie
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="https://freem3u.xyz/static/images/global/cinemaworld.png" group-title="Quốc Tế",CinemaWorld
+#EXTINF:-1 tvg-id="cinemaworld" tvg-logo="https://freem3u.xyz/static/images/global/cinemaworld.png" group-title="In The Box",CinemaWorld
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee7915564d7439d09bd3556ffccc87a4:b35e12a75a42a6f9184723a90ff42d9c
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png" group-title="Quốc Tế",HBO
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png" group-title="In The Box",HBO
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
