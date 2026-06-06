@@ -373,10 +373,20 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acb4c23471063327adc732e283c0847f:e9868f5f473d0fd8699ede48d531c2b0
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
-#EXTINF:-1 tvg-name="MonoMax 1" tvg-logo="https://www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX",MonoMax 1
+#EXTINF:-1 tvg-name="MonoMax 1" tvg-logo="https://www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Bóng Đá Anh",MonoMax 1
 https://love.verowo7190.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
-#EXTINF:-1 tvg-name="MonoMax 2" tvg-logo="https://www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="MONOMAX",MonoMax 2
+#EXTINF:-1 tvg-name="MonoMax 2" tvg-logo="https://www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Bóng Đá Anh",MonoMax 2
 https://love.verowo7190.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
+#EXTINF:-1 tvg-id="" group-title="Bóng Đá Anh" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 1 HD 
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Bóng Đá Anh" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 2 HD 
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp2.m3u8
+#EXTINF:-1 tvg-id="" group-title="Bóng Đá Anh" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 3 HD 
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp3.m3u8
+#EXTINF:-1 tvg-id="" group-title="Bóng Đá Anh" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 4 HD 
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp4.m3u8
+#EXTINF:-1 tvg-id="" group-title="Bóng Đá Anh" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272",Hub Premier 5 HD 
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/hubp5.m3u8
 #EXTINF:-1 tvg-name="Diema Sport HD" tvg-logo="http://tvfor.pro/img/images/Chanels/diema_sport_1.png" group-title="Thể thao quốc tế",Diema Sport HD
 http://ronaldo.tvfor.pro/59Xxas4T4N/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-name="Diema Sport 2 HD" tvg-logo="http://tvfor.pro/img/images/Chanels/diema_sport_2.png" group-title="Thể thao quốc tế",Diema Sport 2 HD
