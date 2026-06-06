@@ -555,6 +555,20 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://xemtvtructuyen.duckdns.org/tv/clearkey.php?id=tv360plus12
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=10001
+#EXTINF:-1 tvg-id="" group-title="Sky Go" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/1024px-Sky_Sport_Bundesliga_2020.svg.png",Bóng Đá Đức - Bundesliga 01 SKYGO
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=485852&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Sky Go" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/1024px-Sky_Sport_Bundesliga_2020.svg.png",Bóng Đá Đức - Bundesliga 02 SKYGO
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=485851&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Sky Go" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/1024px-Sky_Sport_Bundesliga_2020.svg.png",Bóng Đá Đức - Bundesliga 03 SKYGO
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=485849&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Sky Go" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/1024px-Sky_Sport_Bundesliga_2020.svg.png",Bóng Đá Đức - Bundesliga 04 SKYGO
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=485847&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Sky Go" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/1024px-Sky_Sport_Bundesliga_2020.svg.png",Bóng Đá Đức - Bundesliga 05 SKYGO
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=485845&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Sky Go" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/1024px-Sky_Sport_Bundesliga_2020.svg.png",Bóng Đá Đức - Bundesliga 06 SKYGO
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=485843&extension=ts
+#EXTINF:-1 tvg-id="" group-title="Sky Go" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/ca/Sky_Sport_Bundesliga_2020.svg/1024px-Sky_Sport_Bundesliga_2020.svg.png",Bóng Đá Đức - Bundesliga SKYGO
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=485855&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ FOOT 4K." tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="CANAL+ SPORT",|FR| CANAL+ FOOT 4K.
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=394814&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="CANAL+ SPORT",|FR| CANAL+ SPORT 360 ᵁᴴᴰ
