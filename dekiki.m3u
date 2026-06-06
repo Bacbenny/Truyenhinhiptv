@@ -602,21 +602,33 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="tv360" group-title="TV360 Replay" group-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png" tvg-logo="https://logos.fandom.com/vi/wiki/TV360?file=TV360_logo_2024.png",TV360
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360/KenhCoBan.m3u8
 #EXTINF:-1 tvg-name="|FR| CANAL+ FOOT 4K." tvg-logo="http://138.199.27.237:8080/FRANCE/CANAL+FOOT.png" group-title="CANAL+ SPORT",|FR| CANAL+ FOOT 4K.
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256629
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=394814&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ SPORT 360 ᵁᴴᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/FRANCE/Canal+Sport_360(1).png" group-title="CANAL+ SPORT",|FR| CANAL+ SPORT 360 ᵁᴴᴰ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/256628
 #EXTINF:-1 tvg-name="CANAL+ SPORT" tvg-logo="http://138.199.27.237:8080/0tv_logo/5028.png" group-title="CANAL+ SPORT",CANAL+ SPORT
-http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/250
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=599983&extension=ts
 #EXTINF:-1 tvg-name="|FR| CANAL+ PREMIER LEAGUE ᵁᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Canal_PremierLeague.svg/revision/latest/scale-to-width-down/340?cb=20200906183946" group-title="CANAL+ SPORT",|FR| CANAL+ PREMIER LEAGUE ᵁᴴᴰ
 http://cdn69630.sp-vpn-vad.com:80/at2sc0r6b4/kmmutt995q/115870
-#EXTINF:-1 tvg-name="CANAL+ LIVE 1" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720" group-title="CANAL+ SPORT",CANAL+ LIVE 1
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894982&extension=ts
-#EXTINF:-1 tvg-name="CANAL+ LIVE 2" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720" group-title="CANAL+ SPORT",CANAL+ LIVE 2
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894983&extension=ts
-#EXTINF:-1 tvg-name="CANAL+ LIVE 3" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720" group-title="CANAL+ SPORT",CANAL+ LIVE 3
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894984&extension=ts
-#EXTINF:-1 tvg-name="CANAL+ LIVE 4" tvg-logo="https://s1.dmcdn.net/v/JjNMw1Z-Js5kwK7KN/x720" group-title="CANAL+ SPORT",CANAL+ LIVE 4
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894985&extension=ts
+#EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 1 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170885&extension=ts
+#EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 2 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170884&extension=ts
+#EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 3 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170883&extension=ts
+#EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 4 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170882&extension=ts
+#EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 5 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170881&extension=ts
+#EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 6 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170880&extension=ts
+#EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 7 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170879&extension=ts
+#EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 8 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170878&extension=ts
+#EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 9 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170877&extension=ts
+#EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 10 FHD
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170876&extension=ts
 #EXTINF:-1 tvg-name="TNT SPORTS ULTIMATE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS",TNT SPORTS ULTIMATE 4K
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:45:42:1E&stream=1174213&extension=ts
 #EXTINF:-1 tvg-name="TNT SPORTS 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT SPORTS",TNT SPORTS 1
