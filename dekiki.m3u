@@ -423,10 +423,10 @@ http://ronaldo.tvfor.pro/yEa58Rr77G/tht6v98456np1k198n81n2t8?|User-Agent=http-us
 #EXTINF:-1 tvg-name="Diema Sport 3 HD" tvg-logo="http://51.158.145.100/picons/logos/logos/1457953.png" group-title="Thể thao quốc tế",Diema Sport 3 HD
 http://ronaldo.tvfor.pro/394taY3pEN/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 tvg-id="345675" group-title="Thể thao quốc tế" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/14555.png?42275",Polsat Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#EXTVLCOPT:http-cookie=mac=00:1A:79:7D:93:30; stb_lang=en; timezone=GMT
-#EXTVLCOPT:http-header=Authorization: Bearer BA1D28C3E11B45386EEAAA99672B9073
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:7D:93:30&stream=345675&extension=ts&play_token=RdEA7MdZI7
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#EXTVLCOPT:http-cookie=mac=00:1A:79:BC:94:42; stb_lang=en; timezone=GMT
+#EXTVLCOPT:http-header=Authorization: Bearer DA7E3F3F71210A93A8DB422A2DCECBEC
+http://atk97.online:80/play/live.php?mac=00:1A:79:BC:94:42&stream=880471&extension=ts&play_token=FDzuPiPkMn
 #EXTINF:-1 tvg-id="" group-title="Thể thao quốc tế" tvg-logo="http://103.240.148.55:8080/files/Picon/EUROSPORT1.png",Eurosport 1
 http://81.15.109.89:8001/play/Eurosport1Poland
 #EXTINF:-1 tvg-id="" group-title="Thể thao quốc tế" tvg-logo="https://raw.githubusercontent.com/lamtung16/iptv/refs/heads/main/logos/eurosport-2-pt.png",Eurosport 2
