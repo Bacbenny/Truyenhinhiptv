@@ -592,15 +592,15 @@ http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170878&exten
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170877&extension=ts
 #EXTINF:-1 tvg-id="" group-title="CANAL+ SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_Canal%2B_1995.svg/1920px-Logo_Canal%2B_1995.svg.png",Canal + Live 10 FHD
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:59:C0:0B&stream=1170876&extension=ts
-#EXTINF:-1 tvg-name="TNT SPORTS ULTIMATE 4K" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS ULTIMATE 4K
+#EXTINF:-1 tvg-name="TNT SPORTS ULTIMATE 4K" tvg-logo="http://51.158.145.100/picons/logos/UK/1905819.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS ULTIMATE 4K
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:45:42:1E&stream=1174213&extension=ts
-#EXTINF:-1 tvg-name="TNT SPORTS 1" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 1
+#EXTINF:-1 tvg-name="TNT SPORTS 1" tvg-logo="https://logo.m3uassets.com/tntsports1.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 1
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894977&extension=ts
-#EXTINF:-1 tvg-name="TNT SPORTS 2" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 2
+#EXTINF:-1 tvg-name="TNT SPORTS 2" tvg-logo="https://logo.m3uassets.com/tntsports2.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 2
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894978&extension=ts
-#EXTINF:-1 tvg-name="TNT SPORTS 3" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 3
+#EXTINF:-1 tvg-name="TNT SPORTS 3" tvg-logo="https://logo.m3uassets.com/tntsports3.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 3
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894979&extension=ts
-#EXTINF:-1 tvg-name="TNT SPORTS 4" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/TNT SPORTS/TNT SPORTS.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 4
+#EXTINF:-1 tvg-name="TNT SPORTS 4" tvg-logo="https://logo.m3uassets.com/tntsports4.png" group-title="TNT / ZIGGO SPORT",TNT SPORTS 4
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:41:2E:83&stream=894980&extension=ts
 #EXTINF:-1 tvg-id="" group-title="TNT / ZIGGO SPORT" tvg-logo="https://assets.website-files.com/59edd3f1d338d60001c21ea3/5b3e0ce0aa97227d96d67d3e_ZiggoSportLogoWhite.png",Ziggo Sport 1
 http://assarao4k.com:80/play/live.php?mac=00:1A:79:75:D7:5E&stream=1537597&extension=ts
