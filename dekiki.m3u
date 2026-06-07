@@ -136,7 +136,10 @@ https://hoiquan.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/JK0TF38/sctv22-hd.png",SCTV22
 https://hoiquan.dpdns.org/VTVGo/?sctv22
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png",SCTV Phim tổng hợp
-https://liveh12.vtvprime.vn/hls/SCTVPHIM/index.m3u8
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-phim-tong-hop-e6d2df88
+#EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" group-logo="https://sgchill.duckdns.org/logo/sctv.png" tvg-logo="https://sgchill.duckdns.org/logo/sctv4k.png",SCTV4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+https://vpsttt.vietanhtv.top/sctv/tv.php?id=sctv-4k
 #EXTINF:-1 tvg-id="htv1hd" tvg-name="HTV1 HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/HTV1_30-12-2024.png/revision/latest?cb=20260414043039&path-prefix=vi" group-title="HTV/HTVC",HTV1 HD
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" tvg-name="HTV2 HD | Vie Channel" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/19/HTV2_Vie_Channel_logo_ch%C3%ADnh_31-12-2024.png/revision/latest?cb=20250111052428&path-prefix=vi" group-title="HTV/HTVC",HTV2 HD | Vie Channel
