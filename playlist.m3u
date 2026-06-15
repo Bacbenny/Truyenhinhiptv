@@ -1,11 +1,331 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="0ce76bb6bd8b49248231d7943b48df57" tvg-name="12:00 - 15/06 | Spain VS Georgia (European League) | BLV TRẠNG NGỐ" tvg-logo="https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png" group-title="TiếuLâm TV",12:00 - 15/06 | Spain VS Georgia (European League) | BLV TRẠNG NGỐ
-https://live.secufun.xyz/live/26ad42f530474aca8fb7b5234f69ea1a/index.m3u8
-#EXTINF:-1 tvg-id="1l4rjnh9ldgom7v" tvg-name="16:00 - 15/06 | Spain VS Cabo Verde (FIFA World Cup) | BLV TRẠNG PHỆ" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/5hLkf7KFHhmpaiOJQv8LmA_96x96.png" group-title="TiếuLâm TV",16:00 - 15/06 | Spain VS Cabo Verde (FIFA World Cup) | BLV TRẠNG PHỆ
-https://live.secufun.xyz/live/9a83ca525b0940b29031dee5b4451ba0/index.m3u8
-#EXTINF:-1 tvg-id="05d5c5cc6efa4e4da9de580ef62337ba" tvg-name="22:00 - 15/06 | Saudi Arabia VS Uruguay (FIFA World Cup) | BLV TRẠNG TÍ" tvg-logo="https://static.flashscore.com/res/image/data/G6x4A5zB-KtpTLRpL.png" group-title="TiếuLâm TV",22:00 - 15/06 | Saudi Arabia VS Uruguay (FIFA World Cup) | BLV TRẠNG TÍ
-https://live.secufun.xyz/live/07e20ead19674448bc0078c5b474f104/index.m3u8
-#EXTINF:-1 tvg-id="1l4rjnh9g773m7v" tvg-name="15:00 - 15/06 | Hadiya Hossana VS Fasil Kenema (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/6b722ac8d4b936380432e7a58ef41b4e.png" group-title="TiếuLâm TV",15:00 - 15/06 | Hadiya Hossana VS Fasil Kenema (Ethiopia Premier League)
-https://live.secufun.xyz/live/be9c487d014d4273b45f69d94e80d2fa/index.m3u8
-#EXTINF:-1 tvg-id="1l4rjnh946v5m7v" tvg-name="19:15 - 16/06 | Akranes VS Valur Reykjavik (Iceland Besta-deild karla)" tvg-logo="https://img.sports-data.online/football/team/9ea788376ee5eb240491893729802749.png" group-title="TiếuLâm TV",19:15 - 16/06 | Akranes VS Valur Reykjavik (Iceland Besta-deild karla)
-https://live.secufun.xyz/live/a5e2c11ef38741c19e59f04cac2159b9/index.m3u8
+#EXTINF:-1 tvg-id="zp5rzghgez4eq82" tvg-name="08:00 - 15/06 | Snohomish United VS West Seattle Junction (USL League Two) | BLV TRẠNG BÉO" tvg-logo="https://img.sports-data.online/football/team/8cb7ee922a767f53d4389878f25a6cd5.png" group-title="TiếuLâm TV",08:00 - 15/06 | Snohomish United VS West Seattle Junction (USL League Two) | BLV TRẠNG BÉO
+https://live.lisport.eu.cc/live/8c6b626753e3107fc06a9990f2024a63/playlist.m3u8
+#EXTINF:-1 tvg-id="318q66hxg3doqo9" tvg-name="09:00 - 15/06 | Sweden VS Tunisia (FIFA World Cup) | BLV TRẠNG TỒ" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OkFlRvRsKMWb8Hk20L9Trw_96x96.png" group-title="TiếuLâm TV",09:00 - 15/06 | Sweden VS Tunisia (FIFA World Cup) | BLV TRẠNG TỒ
+https://live.lisport.eu.cc/live/b9a45ca62018b4731510a4a09830dc5e/playlist.m3u8
+#EXTINF:-1 tvg-id="6b1d28a75f424662ab4e8049b688473e" tvg-name="09:00 - 15/06 | Sweden VS Tunisia (FIFA World Cup) | BLV TRẠNG TÈO" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OkFlRvRsKMWb8Hk20L9Trw_96x96.png" group-title="TiếuLâm TV",09:00 - 15/06 | Sweden VS Tunisia (FIFA World Cup) | BLV TRẠNG TÈO
+https://live.lisport.eu.cc/live/ba94324d7c624a5892500356493331b1/playlist.m3u8
+#EXTINF:-1 tvg-id="318q66hx1eyxqo9" tvg-name="17:00 - 15/06 | Negele Arsi VS Hawassa City (Ethiopia Premier League) | BLV TRẠNG TÈO" tvg-logo="https://img.sports-data.online/football/team/0fc36659e34da86240c5b2263f383720.png" group-title="TiếuLâm TV",17:00 - 15/06 | Negele Arsi VS Hawassa City (Ethiopia Premier League) | BLV TRẠNG TÈO
+https://live.lisport.eu.cc/live/8b9805d575dc4a878aaa82fc39825855/playlist.m3u8
+#EXTINF:-1 tvg-id="0ce76bb6bd8b49248231d7943b48df57" tvg-name="19:00 - 15/06 | Spain VS Georgia (European League) | BLV TRẠNG NGỐ" tvg-logo="https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png" group-title="TiếuLâm TV",19:00 - 15/06 | Spain VS Georgia (European League) | BLV TRẠNG NGỐ
+https://live.lisport.eu.cc/live/26ad42f530474aca8fb7b5234f69ea1a/playlist.m3u8
+#EXTINF:-1 tvg-id="3glrw7hn988kqdy" tvg-name="19:00 - 15/06 | Arba Minch VS Shire Endaselassie FC (Ethiopia Premier League) | BLV TRẠNG BÉO" tvg-logo="https://img.sports-data.online/football/team/a4d258acc703851ed1b08271c908dcb2.png" group-title="TiếuLâm TV",19:00 - 15/06 | Arba Minch VS Shire Endaselassie FC (Ethiopia Premier League) | BLV TRẠNG BÉO
+https://live.lisport.eu.cc/live/2a56447ad22149f9921a00f3939d5d15/playlist.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8deo9qwz" tvg-name="20:30 - 15/06 | Shahrdari Noshahr VS Navad Urmia (Iran Azadegan League) | BLV TRẠNG TÍ" tvg-logo="https://img.sports-data.online/football/team/1402e42c10c73929611be8eb207ea4ea.png" group-title="TiếuLâm TV",20:30 - 15/06 | Shahrdari Noshahr VS Navad Urmia (Iran Azadegan League) | BLV TRẠNG TÍ
+https://live.lisport.eu.cc/live/4d3ed71ac327433cadfd55ab719e2b79/playlist.m3u8
+#EXTINF:-1 tvg-id="5fdf5cb3ed0f488c835ff9afbf168b5d" tvg-name="21:00 - 15/06 | Hungary  VS Azerbaijan (European League) | BLV TRẠNG TỒ" tvg-logo="https://static.flashscore.com/res/image/data/21LKuWg5-Uywods6T.png" group-title="TiếuLâm TV",21:00 - 15/06 | Hungary  VS Azerbaijan (European League) | BLV TRẠNG TỒ
+https://live.lisport.eu.cc/live/40353c07a3f04e02ac7d99edea407ca9/playlist.m3u8
+#EXTINF:-1 tvg-id="1l4rjnh9ldgom7v" tvg-name="23:00 - 15/06 | Spain VS Cabo Verde (FIFA World Cup) | BLV TRẠNG PHỆ" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/5hLkf7KFHhmpaiOJQv8LmA_96x96.png" group-title="TiếuLâm TV",23:00 - 15/06 | Spain VS Cabo Verde (FIFA World Cup) | BLV TRẠNG PHỆ
+https://live.lisport.eu.cc/live/9a83ca525b0940b29031dee5b4451ba0/playlist.m3u8
+#EXTINF:-1 tvg-id="d270499ab1784936bfaeb9ad844a3c13" tvg-name="23:00 - 15/06 | Spain VS Cabo Verde (FIFA World Cup) | BLV TRẠNG BÉO" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/5hLkf7KFHhmpaiOJQv8LmA_96x96.png" group-title="TiếuLâm TV",23:00 - 15/06 | Spain VS Cabo Verde (FIFA World Cup) | BLV TRẠNG BÉO
+https://live.lisport.eu.cc/live/49660d39d6fe410fbef031f9283a0795/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhyx2voryk" tvg-name="00:00 - 16/06 | GIF Sundsvall VS Osters IF (Sweden Superettan) | BLV TRẠNG NGỐ" tvg-logo="https://img.sports-data.online/football/team/8cb22bdd0b7ba1ab13d742e22eed8da2.jpg" group-title="TiếuLâm TV",00:00 - 16/06 | GIF Sundsvall VS Osters IF (Sweden Superettan) | BLV TRẠNG NGỐ
+https://live.lisport.eu.cc/live/787751c1ea574bb98999a214bbdafd18/playlist.m3u8
+#EXTINF:-1 tvg-id="3a6f02b87fe9474697c0bfa8cd555eff" tvg-name="02:00 - 16/06 | Belgium VS Egypt (FIFA World Cup) | BLV TRẠNG NGỐ" tvg-logo="https://static.flashscore.com/res/image/data/Qur1J5jl-dtrVaP64.png" group-title="TiếuLâm TV",02:00 - 16/06 | Belgium VS Egypt (FIFA World Cup) | BLV TRẠNG NGỐ
+https://live.lisport.eu.cc/live/31eb438160fd4379a1bdcc1e5397b07d/playlist.m3u8
+#EXTINF:-1 tvg-id="n54qllhnzw3wqvy" tvg-name="02:00 - 16/06 | Belgium VS Egypt (FIFA World Cup) | BLV TRẠNG PHỆ" tvg-logo="https://static.flashscore.com/res/image/data/Qur1J5jl-dtrVaP64.png" group-title="TiếuLâm TV",02:00 - 16/06 | Belgium VS Egypt (FIFA World Cup) | BLV TRẠNG PHỆ
+https://live.lisport.eu.cc/live/40e17009705242dc9063a732e5398e0e/playlist.m3u8
+#EXTINF:-1 tvg-id="05d5c5cc6efa4e4da9de580ef62337ba" tvg-name="05:00 - 16/06 | Saudi Arabia VS Uruguay (FIFA World Cup) | BLV TRẠNG TÍ" tvg-logo="https://static.flashscore.com/res/image/data/G6x4A5zB-KtpTLRpL.png" group-title="TiếuLâm TV",05:00 - 16/06 | Saudi Arabia VS Uruguay (FIFA World Cup) | BLV TRẠNG TÍ
+https://live.lisport.eu.cc/live/07e20ead19674448bc0078c5b474f104/playlist.m3u8
+#EXTINF:-1 tvg-id="dj2ryohlx93dq1z" tvg-name="05:00 - 16/06 | Saudi Arabia VS Uruguay (FIFA World Cup) | BLV TRẠNG TỒ" tvg-logo="https://static.flashscore.com/res/image/data/G6x4A5zB-KtpTLRpL.png" group-title="TiếuLâm TV",05:00 - 16/06 | Saudi Arabia VS Uruguay (FIFA World Cup) | BLV TRẠNG TỒ
+https://live.lisport.eu.cc/live/14e4062a2f3842d5995dcf38e72e0ba2/playlist.m3u8
+#EXTINF:-1 tvg-id="52f82a2170fd46419ef649eb6e7859fb" tvg-name="08:00 - 16/06 | IR Iran VS New Zealand (FIFA World Cup) | BLV TRẠNG BÉO" tvg-logo="https://static.flashscore.com/res/image/data/E71I3ig5-vHwNhhf2.png" group-title="TiếuLâm TV",08:00 - 16/06 | IR Iran VS New Zealand (FIFA World Cup) | BLV TRẠNG BÉO
+https://live.lisport.eu.cc/live/3bff0a6002a3466b919c807d88ace9ab/playlist.m3u8
+#EXTINF:-1 tvg-id="l5ergph487jer8k" tvg-name="08:00 - 16/06 | IR Iran VS New Zealand (FIFA World Cup) | BLV TRẠNG TÈO" tvg-logo="https://static.flashscore.com/res/image/data/E71I3ig5-vHwNhhf2.png" group-title="TiếuLâm TV",08:00 - 16/06 | IR Iran VS New Zealand (FIFA World Cup) | BLV TRẠNG TÈO
+https://live.lisport.eu.cc/live/66a39473f9ae47dab1841c5f3c0bf838/playlist.m3u8
+#EXTINF:-1 tvg-id="l7oqdehgxpwkr51" tvg-name="17:00 - 16/06 | Ethio Electric FC VS Mekelle 70 Enderta (Ethiopia Premier League) | BLV TRẠNG TÈO" tvg-logo="https://img.sports-data.online/football/team/7dc5caf12e4dbe374f4ef41febaac087.png" group-title="TiếuLâm TV",17:00 - 16/06 | Ethio Electric FC VS Mekelle 70 Enderta (Ethiopia Premier League) | BLV TRẠNG TÈO
+https://live.lisport.eu.cc/live/845650edc7344f91800cdfda14d19f4e/playlist.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjzg3zm2w" tvg-name="19:30 - 16/06 | Al Ahed SC VS CS Sagesse (Lebanese Premier League) | BLV TRẠNG BÉO" tvg-logo="https://img.sports-data.online/football/team/2e1e51f1d382444ac21027df0f23519d.png" group-title="TiếuLâm TV",19:30 - 16/06 | Al Ahed SC VS CS Sagesse (Lebanese Premier League) | BLV TRẠNG BÉO
+https://live.lisport.eu.cc/live/7abff6e9c3674c12befd4c1026777d83/playlist.m3u8
+#EXTINF:-1 tvg-id="n54qllhn75p4qvy" tvg-name="20:00 - 16/06 | Tadamon SC Sour VS Al Mabarrah SC (Lebanese Premier League) | BLV TRẠNG TÍ" tvg-logo="https://img.sports-data.online/football/team/1da29817ab4e7c4880d8b457cf2db363.png" group-title="TiếuLâm TV",20:00 - 16/06 | Tadamon SC Sour VS Al Mabarrah SC (Lebanese Premier League) | BLV TRẠNG TÍ
+https://live.lisport.eu.cc/live/edc827ca001140eba32bf9907f40aa4d/playlist.m3u8
+#EXTINF:-1 tvg-id="x7lm7phj2lkom2w" tvg-name="22:00 - 16/06 | Lyn Women VS SK Brann Women (Norwegian Women's Cup) | BLV TRẠNG TỒ" tvg-logo="https://img.sports-data.online/football/team/8fe2efe2a7bf90e1c99597e415cc1c17.png" group-title="TiếuLâm TV",22:00 - 16/06 | Lyn Women VS SK Brann Women (Norwegian Women's Cup) | BLV TRẠNG TỒ
+https://live.lisport.eu.cc/live/4422053d4e3047c09b5197adfd4b0927/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhy5gppryk" tvg-name="23:00 - 16/06 | Dila Gori VS Spaeri FC (Georgia Erovnuli Liga) | BLV TRẠNG BÉO" tvg-logo="https://img.sports-data.online/football/team/8d37df65ec99136141521145783ba119.png" group-title="TiếuLâm TV",23:00 - 16/06 | Dila Gori VS Spaeri FC (Georgia Erovnuli Liga) | BLV TRẠNG BÉO
+https://live.lisport.eu.cc/live/32162b99ebf44b669513a12c8ff2a3b5/playlist.m3u8
+#EXTINF:-1 tvg-id="1l4rjnh9pz50m7v" tvg-name="09:00 - 15/06 | Portland Bangers VS Ballard Football Club (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/82969364484691e6c6d123fd54fb217a.png" group-title="TiếuLâm TV",09:00 - 15/06 | Portland Bangers VS Ballard Football Club (USL League Two)
+https://live.lisport.eu.cc/live/254d4d2f34d35bb51b4972a62c7aa17a/playlist.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghndvpym0v" tvg-name="09:00 - 15/06 | San Juan SC VS Almaden FC (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/8a19c4e345cd9ed357550b00df3d01ae.png" group-title="TiếuLâm TV",09:00 - 15/06 | San Juan SC VS Almaden FC (USL League Two)
+https://live.lisport.eu.cc/live/e63da2fc9f76a73de26093edd810fdd7/playlist.m3u8
+#EXTINF:-1 tvg-id="n54qllhny9yoqvy" tvg-name="09:35 - 15/06 | FC Tucson Women VS Desert Dreams FC (W) (United States Women's Premier League)" tvg-logo="https://img.sports-data.online/football/team/2bf44ac753af07627a7c7c7cd2f4fb5e.png" group-title="TiếuLâm TV",09:35 - 15/06 | FC Tucson Women VS Desert Dreams FC (W) (United States Women's Premier League)
+https://live.lisport.eu.cc/live/dfe81f82b1df467ebb49341a83476790/playlist.m3u8
+#EXTINF:-1 tvg-id="6ypq3nhvdg0ymd7" tvg-name="13:30 - 15/06 | Bangkok Thonburi University VS Thailand National Sports University (Thai University League)" tvg-logo="https://img.sports-data.online/football/team/c010f7ec97328d4abfe97ebd571b9d16.png" group-title="TiếuLâm TV",13:30 - 15/06 | Bangkok Thonburi University VS Thailand National Sports University (Thai University League)
+https://live.lisport.eu.cc/live/58083228072b49b6be64ae89bbd8b94d/playlist.m3u8
+#EXTINF:-1 tvg-id="6ypq3nhvdwzlmd7" tvg-name="15:00 - 15/06 | China U23 VS Hong Kong U23 (International Friendly)" tvg-logo="https://img.sports-data.online/football/team/a5eb29400378fcda639caedb5af7d950.png" group-title="TiếuLâm TV",15:00 - 15/06 | China U23 VS Hong Kong U23 (International Friendly)
+https://live.lisport.eu.cc/live/0d6a7280b86042a590ea702437be1191/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhyw7g4ryk" tvg-name="15:30 - 15/06 | Chulalongkorn University VS Kasem Bundit University (Thai University League)" tvg-logo="https://img.sports-data.online/football/team/656d19708b0013b14d0cad2da6a7c68e.png" group-title="TiếuLâm TV",15:30 - 15/06 | Chulalongkorn University VS Kasem Bundit University (Thai University League)
+https://live.lisport.eu.cc/live/c8ab7a8edb4f482a9d994f9424315fde/playlist.m3u8
+#EXTINF:-1 tvg-id="3glrw7hne0z1qdy" tvg-name="16:30 - 15/06 | Shan Utd (W) VS Institute of Sports & Physical Education FC Women (MML W)" tvg-logo="https://img.sports-data.online/football/team/087b2b83856f1aad448c32c6a73c8f6f.png" group-title="TiếuLâm TV",16:30 - 15/06 | Shan Utd (W) VS Institute of Sports & Physical Education FC Women (MML W)
+https://live.lisport.eu.cc/live/9a065c0b7c6149ba9d4f65df08b70a62/playlist.m3u8
+#EXTINF:-1 tvg-id="4wyrn4h6171eq86" tvg-name="17:00 - 15/06 | FC Tbilisi 2025 VS FC Betlemi Keda (Georgia Erovnuli Liga 3)" tvg-logo="https://img.sports-data.online/football/team/939c7ec5e1bf5fa588177d622d788230.png" group-title="TiếuLâm TV",17:00 - 15/06 | FC Tbilisi 2025 VS FC Betlemi Keda (Georgia Erovnuli Liga 3)
+https://live.lisport.eu.cc/live/318fa5678bae4ddf8ae2aeca9511b77d/playlist.m3u8
+#EXTINF:-1 tvg-id="l7oqdehgz0z9r51" tvg-name="17:00 - 15/06 | Mitchelton Women VS Peninsula Power Women (Australia Queensland State Women's League)" tvg-logo="https://img.sports-data.online/football/team/5dbbf7115711e7501cf909ce65dc7cd4.png" group-title="TiếuLâm TV",17:00 - 15/06 | Mitchelton Women VS Peninsula Power Women (Australia Queensland State Women's League)
+https://live.lisport.eu.cc/live/0a12b84110a144afb449edad451ec4b6/playlist.m3u8
+#EXTINF:-1 tvg-id="6ypq3nhvd11dmd7" tvg-name="17:30 - 15/06 | FFSA NTC Girls Women VS Modbury Vista (w) (South Australia Women's Premier League)" tvg-logo="https://img.sports-data.online/football/team/1e40b9c5ee0d8ffc6b77d7b5a1b68385.png" group-title="TiếuLâm TV",17:30 - 15/06 | FFSA NTC Girls Women VS Modbury Vista (w) (South Australia Women's Premier League)
+https://live.lisport.eu.cc/live/8e26ab057db04a6fbe592f6eea33bc74/playlist.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjdn9wm2w" tvg-name="18:00 - 15/06 | Shakhter Karagandy Women VS Zhenis W (Kazakhstan Women's Super League)" tvg-logo="https://img.sports-data.online/football/team/6e17384cf939af9e4fc8baaa295da815.png" group-title="TiếuLâm TV",18:00 - 15/06 | Shakhter Karagandy Women VS Zhenis W (Kazakhstan Women's Super League)
+https://live.lisport.eu.cc/live/13ff05dc41f44f8cab188f6444415732/playlist.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjdwegm2w" tvg-name="18:30 - 15/06 | Ningbo FC U20 VS Hubei Istar U20 (Chinese Football Assorciation U-20 League)" tvg-logo="https://img.sports-data.online/football/team/8564e1f261df4938fcd36dc76778583a.png" group-title="TiếuLâm TV",18:30 - 15/06 | Ningbo FC U20 VS Hubei Istar U20 (Chinese Football Assorciation U-20 League)
+https://live.lisport.eu.cc/live/bfdd0bf161ad487ab61599aa4d63fe7b/playlist.m3u8
+#EXTINF:-1 tvg-id="965mkyhk9356r1g" tvg-name="19:00 - 15/06 | Adama City VS Wolaita Dicha (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/1f628687971ba8f54e1b10a69ffdbf5c.png" group-title="TiếuLâm TV",19:00 - 15/06 | Adama City VS Wolaita Dicha (Ethiopia Premier League)
+https://live.lisport.eu.cc/live/3d639815b89e4133925c641557ed058c/playlist.m3u8
+#EXTINF:-1 tvg-id="ednm9whwlzxnryo" tvg-name="19:00 - 15/06 | Hadiya Hossana VS Dire Dawa (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/6b722ac8d4b936380432e7a58ef41b4e.png" group-title="TiếuLâm TV",19:00 - 15/06 | Hadiya Hossana VS Dire Dawa (Ethiopia Premier League)
+https://live.lisport.eu.cc/live/a8cc0516969741fca1ff51c8bd0538c3/playlist.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjd07jm2w" tvg-name="19:00 - 15/06 | BFF Academy U19 VS Paro FC (Bhutan Premier League)" tvg-logo="https://img.sports-data.online/football/team/9d4caac656f50e75750c905733ce6114.png" group-title="TiếuLâm TV",19:00 - 15/06 | BFF Academy U19 VS Paro FC (Bhutan Premier League)
+https://live.lisport.eu.cc/live/d82f060cf19b4cf39ae12a91bacb78ea/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8gheoxvwr6o" tvg-name="19:30 - 15/06 | Fergana FA VS Havokand FC (Uzbekistan First League)" tvg-logo="https://img.sports-data.online/football/team/0b208a9bf808f3af75442e47eada581c.png" group-title="TiếuLâm TV",19:30 - 15/06 | Fergana FA VS Havokand FC (Uzbekistan First League)
+https://live.lisport.eu.cc/live/fba2396253db40ce9be80bceb872faee/playlist.m3u8
+#EXTINF:-1 tvg-id="jw2r09hkdpdjrz8" tvg-name="20:00 - 15/06 | FC Irao Tbilisi VS FC Didube (Georgia Erovnuli Liga 3)" tvg-logo="https://img.sports-data.online/football/team/7c30b5786f382147b4bad6c360f0ec11.png" group-title="TiếuLâm TV",20:00 - 15/06 | FC Irao Tbilisi VS FC Didube (Georgia Erovnuli Liga 3)
+https://live.lisport.eu.cc/live/3c9112d7a1604d8daff45c751807d008/playlist.m3u8
+#EXTINF:-1 tvg-id="l5ergph4j5jvr8k" tvg-name="20:00 - 15/06 | Guria Lanchkhuti VS Iveria Khashuri (Georgia Erovnuli Liga 3)" tvg-logo="https://img.sports-data.online/football/team/fa6e66b18784fb8035fe571e03350698.jpg" group-title="TiếuLâm TV",20:00 - 15/06 | Guria Lanchkhuti VS Iveria Khashuri (Georgia Erovnuli Liga 3)
+https://live.lisport.eu.cc/live/e7ffc481db574389bc351929f6dbca46/playlist.m3u8
+#EXTINF:-1 tvg-id="l5ergph4yov5r8k" tvg-name="20:00 - 15/06 | Namungo FC VS Singida Fountain Gate (Tanzanian Premier League)" tvg-logo="https://img.sports-data.online/football/team/6a769513e87cd86cdae6a3b088f6a9a3.png" group-title="TiếuLâm TV",20:00 - 15/06 | Namungo FC VS Singida Fountain Gate (Tanzanian Premier League)
+https://live.lisport.eu.cc/live/276b62dff1114bc1a4d9b59bf2facb2c/playlist.m3u8
+#EXTINF:-1 tvg-id="l7oqdehgzezlr51" tvg-name="20:00 - 15/06 | FC Gonio VS Margveti 2006 (Georgia Erovnuli Liga 3)" tvg-logo="https://img.sports-data.online/football/team/e56529f285521d487ddcbcb9b09f793b.png" group-title="TiếuLâm TV",20:00 - 15/06 | FC Gonio VS Margveti 2006 (Georgia Erovnuli Liga 3)
+https://live.lisport.eu.cc/live/26262dd1255e48f787a80177086c6c8f/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhyeg1eryk" tvg-name="20:00 - 15/06 | Kinondoni MC VS Coastal Union (Tanzanian Premier League)" tvg-logo="https://img.sports-data.online/football/team/944e230995864bf1a42772c0d2cced30.png" group-title="TiếuLâm TV",20:00 - 15/06 | Kinondoni MC VS Coastal Union (Tanzanian Premier League)
+https://live.lisport.eu.cc/live/71ff67972cf447228f8c1e7b10fd3379/playlist.m3u8
+#EXTINF:-1 tvg-id="zp5rzghgokk1q82" tvg-name="20:00 - 15/06 | Adama City VS Ethiopia Nigd Bank (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/1f628687971ba8f54e1b10a69ffdbf5c.png" group-title="TiếuLâm TV",20:00 - 15/06 | Adama City VS Ethiopia Nigd Bank (Ethiopia Premier League)
+https://live.lisport.eu.cc/live/4df7a5516595491a87f7f60a7dfdc12c/playlist.m3u8
+#EXTINF:-1 tvg-id="dj2ryohl3d32q1z" tvg-name="20:30 - 15/06 | Iberia 1999 B VS Kolkheti 1913 Poti (Georgia Erovnuli Liga 3)" tvg-logo="https://img.sports-data.online/football/team/a73440391194d9ca64ea0826f5d8d0aa.png" group-title="TiếuLâm TV",20:30 - 15/06 | Iberia 1999 B VS Kolkheti 1913 Poti (Georgia Erovnuli Liga 3)
+https://live.lisport.eu.cc/live/c05277e1dbd14f9687085607bef4d4f9/playlist.m3u8
+#EXTINF:-1 tvg-id="n54qllhnyxz3qvy" tvg-name="20:45 - 15/06 | Kara Gostar VS Nassaji Mazandaran (Iran Azadegan League)" tvg-logo="https://img.sports-data.online/football/team/683cd0419d5675dff19d880e2378ab61.png" group-title="TiếuLâm TV",20:45 - 15/06 | Kara Gostar VS Nassaji Mazandaran (Iran Azadegan League)
+https://live.lisport.eu.cc/live/8a08ebb0990d496f8e147f61b7511459/playlist.m3u8
+#EXTINF:-1 tvg-id="1l4rjnh9pzl0m7v" tvg-name="21:00 - 15/06 | Havadar Tehran VS Mes Kerman (Iran Azadegan League)" tvg-logo="https://img.sports-data.online/football/team/091ddb48197c0fd09b7f549b871ce197.955322" group-title="TiếuLâm TV",21:00 - 15/06 | Havadar Tehran VS Mes Kerman (Iran Azadegan League)
+https://live.lisport.eu.cc/live/f4deb2e9208942ec84f267eb1e7b43cc/playlist.m3u8
+#EXTINF:-1 tvg-id="2y8m4zh5d4d4ql0" tvg-name="21:00 - 15/06 | Dinamo Tbilisi II VS Gardabani (Georgia Erovnuli Liga 3)" tvg-logo="https://img.sports-data.online/football/team/47cc913613655cbd7950b5eb4e19f2c8.png" group-title="TiếuLâm TV",21:00 - 15/06 | Dinamo Tbilisi II VS Gardabani (Georgia Erovnuli Liga 3)
+https://live.lisport.eu.cc/live/757e6f689a554e498bd9a273e21413c9/playlist.m3u8
+#EXTINF:-1 tvg-id="318q66hx355nqo9" tvg-name="21:00 - 15/06 | Avion Academy VS Atlantic FC de Kribi (Cameroon Elite two)" tvg-logo="https://img.sports-data.online/football/team/653aec7ed83c03e75d24d112b05bb815.png" group-title="TiếuLâm TV",21:00 - 15/06 | Avion Academy VS Atlantic FC de Kribi (Cameroon Elite two)
+https://live.lisport.eu.cc/live/8c7f15f251bd453b93cb87785ba4a0a1/playlist.m3u8
+#EXTINF:-1 tvg-id="4wyrn4h61lwwq86" tvg-name="21:00 - 15/06 | Juventud De Las Piedras Reserves VS Progreso Reserves (Uruguay Reserve League)" tvg-logo="https://img.sports-data.online/football/team/54c4a08e429b3bc82b8d962fe2e90eed.png" group-title="TiếuLâm TV",21:00 - 15/06 | Juventud De Las Piedras Reserves VS Progreso Reserves (Uruguay Reserve League)
+https://live.lisport.eu.cc/live/e83d503fbc5242d6b713f7fc66fcc65f/playlist.m3u8
+#EXTINF:-1 tvg-id="8yomo4h1j5j9q0j" tvg-name="21:00 - 15/06 | Lokomotiv Tbilisi VS FC Iberia tbilisi 2010 (Georgia Erovnuli Liga 3)" tvg-logo="https://img.sports-data.online/football/team/650029b12c22d5111ad71b717fc48fe5.png" group-title="TiếuLâm TV",21:00 - 15/06 | Lokomotiv Tbilisi VS FC Iberia tbilisi 2010 (Georgia Erovnuli Liga 3)
+https://live.lisport.eu.cc/live/139523fb1dc740b9824452d47a950223/playlist.m3u8
+#EXTINF:-1 tvg-id="k82rekhgd8jlrep" tvg-name="21:00 - 15/06 | Eclair de Saa Women VS Agai FC (W) (Cameroon Women's League )" tvg-logo="https://img.sports-data.online/football/team/4d1af583a482570bdcc1df3574adb85e.png" group-title="TiếuLâm TV",21:00 - 15/06 | Eclair de Saa Women VS Agai FC (W) (Cameroon Women's League )
+https://live.lisport.eu.cc/live/16ce88e812054dbda09e96f004330f1d/playlist.m3u8
+#EXTINF:-1 tvg-id="l5ergph4j8d7r8k" tvg-name="21:00 - 15/06 | Nacional de Montevideo Reserves VS Boston River Reserve (Uruguay Reserve League)" tvg-logo="https://img.sports-data.online/football/team/d67052aea85fb74c5793c072314aa6c8.png" group-title="TiếuLâm TV",21:00 - 15/06 | Nacional de Montevideo Reserves VS Boston River Reserve (Uruguay Reserve League)
+https://live.lisport.eu.cc/live/623e3b0be2a34ec68da593af9d35d444/playlist.m3u8
+#EXTINF:-1 tvg-id="y39mp1h68kexmoj" tvg-name="21:00 - 15/06 | AS Dibamba W VS Cyclone FC (W) (Cameroon Women's League )" tvg-logo="https://img.sports-data.online/football/team/8f5df666c7d394eacfa9b9a70d405b66.png" group-title="TiếuLâm TV",21:00 - 15/06 | AS Dibamba W VS Cyclone FC (W) (Cameroon Women's League )
+https://live.lisport.eu.cc/live/b591b943cce343ff89f1672970715fe0/playlist.m3u8
+#EXTINF:-1 tvg-id="23xmvkh6zd0lqg8" tvg-name="21:30 - 15/06 | Ario Eslamshahr VS Naft Bandar Abbas (Iran Azadegan League)" tvg-logo="https://img.sports-data.online/football/team/0c237d7ded53d1e0993c98e6742bdb31.png" group-title="TiếuLâm TV",21:30 - 15/06 | Ario Eslamshahr VS Naft Bandar Abbas (Iran Azadegan League)
+https://live.lisport.eu.cc/live/d357b36e997242ec81a050bea36a365f/playlist.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghndv9ym0v" tvg-name="21:30 - 15/06 | Mes Shahr Babak FC VS Be'sat Kermanshah FC (Iran Azadegan League)" tvg-logo="https://img.sports-data.online/football/team/48de225f5504af12dcfbedbe7829dbf7.png" group-title="TiếuLâm TV",21:30 - 15/06 | Mes Shahr Babak FC VS Be'sat Kermanshah FC (Iran Azadegan League)
+https://live.lisport.eu.cc/live/ec7443539e0f4f53a33f67bd2f071fd2/playlist.m3u8
+#EXTINF:-1 tvg-id="zp5rzghgezweq82" tvg-name="21:30 - 15/06 | FC Fard VS Sanat-Naft (Iran Azadegan League)" tvg-logo="https://img.sports-data.online/football/team/20f4fc928a4d3670b734de99430ff3d0.png" group-title="TiếuLâm TV",21:30 - 15/06 | FC Fard VS Sanat-Naft (Iran Azadegan League)
+https://live.lisport.eu.cc/live/b559c55a19764c5d9b4133f8bc0f88ef/playlist.m3u8
+#EXTINF:-1 tvg-id="1l4rjnh9g773m7v" tvg-name="22:00 - 15/06 | Hadiya Hossana VS Fasil Kenema (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/6b722ac8d4b936380432e7a58ef41b4e.png" group-title="TiếuLâm TV",22:00 - 15/06 | Hadiya Hossana VS Fasil Kenema (Ethiopia Premier League)
+https://live.lisport.eu.cc/live/be9c487d014d4273b45f69d94e80d2fa/playlist.m3u8
+#EXTINF:-1 tvg-id="jw2r09hkgoo2rz8" tvg-name="22:00 - 15/06 | Union Abong-Mbang VS APEJES Academy (Cameroon Elite two)" tvg-logo="https://img.sports-data.online/football/team/3ed275a6b375c75fb9c5c87478ebf3a7.png" group-title="TiếuLâm TV",22:00 - 15/06 | Union Abong-Mbang VS APEJES Academy (Cameroon Elite two)
+https://live.lisport.eu.cc/live/1a9a2b3c232a456cb9caa4db26b7ce6a/playlist.m3u8
+#EXTINF:-1 tvg-id="y39mp1h68jwxmoj" tvg-name="22:00 - 15/06 | Ethiopian Insurance VS Shire Endaselassie FC (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/a768da4707b6bb339076d69b2e5e0a9e.png" group-title="TiếuLâm TV",22:00 - 15/06 | Ethiopian Insurance VS Shire Endaselassie FC (Ethiopia Premier League)
+https://live.lisport.eu.cc/live/5da8d37680c3415e8aebbb22f18c0b2a/playlist.m3u8
+#EXTINF:-1 tvg-id="6ypq3nhv7jlemd7" tvg-name="22:30 - 15/06 | SJK Akatemia VS FC Haka (Finnish Ykkosliiga)" tvg-logo="https://img.sports-data.online/football/team/1673aae6c71fb628e98a6b2306ae14d6.png" group-title="TiếuLâm TV",22:30 - 15/06 | SJK Akatemia VS FC Haka (Finnish Ykkosliiga)
+https://live.secufun.xyz/live/a970da84fe1128cb25ec6b447683aa99/playlist.m3u8
+#EXTINF:-1 tvg-id="318q66hx8v62qo9" tvg-name="23:00 - 15/06 | Parnu JK Vaprus II VS Levadia Tallinn U19 (Esiliiga B)" tvg-logo="https://img.sports-data.online/football/team/8b3ff9ebd295447b4da00cf0c5264e41.png" group-title="TiếuLâm TV",23:00 - 15/06 | Parnu JK Vaprus II VS Levadia Tallinn U19 (Esiliiga B)
+https://live.lisport.eu.cc/live/c2394b507a2b4ef5b47b6692599efc1e/playlist.m3u8
+#EXTINF:-1 tvg-id="4wyrn4h6wd9pq86" tvg-name="23:00 - 15/06 | Vag VS Stabaek B (Norwegian 3.Divisjon)" tvg-logo="https://img.sports-data.online/football/team/dd6d6472fadb1b9437a44be9b46d720d.png" group-title="TiếuLâm TV",23:00 - 15/06 | Vag VS Stabaek B (Norwegian 3.Divisjon)
+https://live.lisport.eu.cc/live/cbd2c1f80fbb49c2ab3bdfb27586d308/playlist.m3u8
+#EXTINF:-1 tvg-id="965mkyhk93o6r1g" tvg-name="23:00 - 15/06 | Pars Jonoubi Jam VS Saipa (Iran Azadegan League)" tvg-logo="https://img.sports-data.online/football/team/c46d9e4702b5ac6b8e5ba17d140ab623.png" group-title="TiếuLâm TV",23:00 - 15/06 | Pars Jonoubi Jam VS Saipa (Iran Azadegan League)
+https://live.lisport.eu.cc/live/a5abb5ea80da44dfbfbdedef12456adc/playlist.m3u8
+#EXTINF:-1 tvg-id="dj2ryohlpjz6q1z" tvg-name="23:00 - 15/06 | Fram Larvik VS FC Lyn Oslo B (Norwegian 3.Divisjon)" tvg-logo="https://img.sports-data.online/football/team/243facb29564e7b448834a7c9d901201.jpg" group-title="TiếuLâm TV",23:00 - 15/06 | Fram Larvik VS FC Lyn Oslo B (Norwegian 3.Divisjon)
+https://live.lisport.eu.cc/live/ac3f23e031f14e008d21bd0e21a46bc5/playlist.m3u8
+#EXTINF:-1 tvg-id="dn1m1ghldod4moe" tvg-name="23:00 - 15/06 | VIFK VS Sporting Kristina (Finnish Kolmonen)" tvg-logo="https://img.sports-data.online/football/team/2686fa4059b61f4ba5069f4ce94933ca.png" group-title="TiếuLâm TV",23:00 - 15/06 | VIFK VS Sporting Kristina (Finnish Kolmonen)
+https://live.lisport.eu.cc/live/44bef66468c94c78a00fe5791fc47e7e/playlist.m3u8
+#EXTINF:-1 tvg-id="dn1m1ghlxn1zmoe" tvg-name="23:00 - 15/06 | Staal Jorpeland VS Odd Grenland 2 (Norwegian 3.Divisjon)" tvg-logo="https://img.sports-data.online/football/team/c4d3cd75465fb81591f9c559c4be30e6.png" group-title="TiếuLâm TV",23:00 - 15/06 | Staal Jorpeland VS Odd Grenland 2 (Norwegian 3.Divisjon)
+https://live.lisport.eu.cc/live/97e17db0da33410ebc83e970307fcb6e/playlist.m3u8
+#EXTINF:-1 tvg-id="ednm9whwlz0nryo" tvg-name="23:00 - 15/06 | Naft Gachsaran VS Niroye Zamini (Iran Azadegan League)" tvg-logo="https://img.sports-data.online/football/team/57cf3b157c82953b6f6cecbf836407be.png" group-title="TiếuLâm TV",23:00 - 15/06 | Naft Gachsaran VS Niroye Zamini (Iran Azadegan League)
+https://live.lisport.eu.cc/live/b0ea44aa3d344991a96a00f16a068e0c/playlist.m3u8
+#EXTINF:-1 tvg-id="ednm9whwwzp9ryo" tvg-name="23:00 - 15/06 | Nomme JK Kalju II VS FC Nomme United U21 (Estonian Esiliiga)" tvg-logo="https://img.sports-data.online/football/team/bf130614e1f60c087522a1f52cb8b983.png" group-title="TiếuLâm TV",23:00 - 15/06 | Nomme JK Kalju II VS FC Nomme United U21 (Estonian Esiliiga)
+https://live.lisport.eu.cc/live/350b57e579af4843affc278f2ba30d03/playlist.m3u8
+#EXTINF:-1 tvg-id="y39mp1h68j4xmoj" tvg-name="23:00 - 15/06 | Shenavar Sazi Qeshm VS Damash Gilan FC (Iran Azadegan League)" tvg-logo="https://img.sports-data.online/football/team/129d03511e27449350de1b7a37e5f47f.png" group-title="TiếuLâm TV",23:00 - 15/06 | Shenavar Sazi Qeshm VS Damash Gilan FC (Iran Azadegan League)
+https://live.lisport.eu.cc/live/419f6fa9b93f402ba759b09bad6b84f6/playlist.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghnwklkm0v" tvg-name="00:00 - 16/06 | Asane Fotball B VS Stord IL (Norwegian 3.Divisjon)" tvg-logo="https://img.sports-data.online/football/team/605dd3448843feac512d5e294c8062f3.png" group-title="TiếuLâm TV",00:00 - 16/06 | Asane Fotball B VS Stord IL (Norwegian 3.Divisjon)
+https://live.lisport.eu.cc/live/39f167d4f72a41379559e9d881731543/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghe0g0kr6o" tvg-name="00:00 - 16/06 | Ranheim B VS Kvik Trondheim (Norwegian 3.Divisjon)" tvg-logo="https://img.sports-data.online/football/team/867450a75c14b3bbf814ac1127400d8e.png" group-title="TiếuLâm TV",00:00 - 16/06 | Ranheim B VS Kvik Trondheim (Norwegian 3.Divisjon)
+https://live.lisport.eu.cc/live/0ba4e0f6ac7c4325a939654611a5ce4e/playlist.m3u8
+#EXTINF:-1 tvg-id="8yomo4h1g5z6q0j" tvg-name="00:05 - 16/06 | IFK Norrkoping FK VS Varbergs BoIS FC (Sweden Superettan)" tvg-logo="https://img.sports-data.online/football/team/bf86b68b6c392717d62eaff46e500d2d.png" group-title="TiếuLâm TV",00:05 - 16/06 | IFK Norrkoping FK VS Varbergs BoIS FC (Sweden Superettan)
+https://live.lisport.eu.cc/live/c976519b908744e0aa880b7eb36c8872/playlist.m3u8
+#EXTINF:-1 tvg-id="318q66hxw703qo9" tvg-name="00:15 - 16/06 | Nykopings BIS VS Smedby AIS (Sweden Division 2)" tvg-logo="https://img.sports-data.online/football/team/5701f2d4f10c0931ebb65923c5f6b711.png" group-title="TiếuLâm TV",00:15 - 16/06 | Nykopings BIS VS Smedby AIS (Sweden Division 2)
+https://live.lisport.eu.cc/live/0811c2e666bb40078345e364b317d300/playlist.m3u8
+#EXTINF:-1 tvg-id="23xmvkh68x8zqg8" tvg-name="00:30 - 16/06 | Vanersborgs IF VS Herrestads AIF (Sweden Division 2)" tvg-logo="https://img.sports-data.online/football/team/9b8e952c6568630c941412826f9a35e3.png" group-title="TiếuLâm TV",00:30 - 16/06 | Vanersborgs IF VS Herrestads AIF (Sweden Division 2)
+https://live.lisport.eu.cc/live/f12711686e2d490eb845373e09ec81c9/playlist.m3u8
+#EXTINF:-1 tvg-id="k82rekhgdyxlrep" tvg-name="00:45 - 16/06 | EC Vera Cruz RJ VS CAAC Brasil FC (Brazilian Campeonato Carioca Série B1)" tvg-logo="https://img.sports-data.online/football/team/26c437ab666b8b6afc5ccb3dde7c8e88.png" group-title="TiếuLâm TV",00:45 - 16/06 | EC Vera Cruz RJ VS CAAC Brasil FC (Brazilian Campeonato Carioca Série B1)
+https://live.lisport.eu.cc/live/500b86feae4741279ac2aba259f259d6/playlist.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8dee3qwz" tvg-name="00:45 - 16/06 | Campos AA VS Uni Souza (Brazilian Campeonato Carioca Série B1)" tvg-logo="https://img.sports-data.online/football/team/67f18a35d077f46acdfce2ab752ecee2.png" group-title="TiếuLâm TV",00:45 - 16/06 | Campos AA VS Uni Souza (Brazilian Campeonato Carioca Série B1)
+https://live.lisport.eu.cc/live/ce14728913be4afd9b97642f40d415ae/playlist.m3u8
+#EXTINF:-1 tvg-id="zp5rzghg5e6lq82" tvg-name="00:45 - 16/06 | Umea FC Academy VS IFK Umea (Sweden Division 2)" tvg-logo="https://img.sports-data.online/football/team/92fb1d61ac9ddebb1594cb1625751e5e.png" group-title="TiếuLâm TV",00:45 - 16/06 | Umea FC Academy VS IFK Umea (Sweden Division 2)
+https://live.lisport.eu.cc/live/862c0ccc691f41d5bf9f0b0bb1432085/playlist.m3u8
+#EXTINF:-1 tvg-id="318q66hxdv6zqo9" tvg-name="01:00 - 16/06 | Tigres Brasil VS Uniao Central (Brazilian Campeonato Carioca Série B1)" tvg-logo="https://img.sports-data.online/football/team/637c6f3cfe474ef305ca5079051d142d.png" group-title="TiếuLâm TV",01:00 - 16/06 | Tigres Brasil VS Uniao Central (Brazilian Campeonato Carioca Série B1)
+https://live.lisport.eu.cc/live/6db0867594bd4f10a11a6d3dc57edb2a/playlist.m3u8
+#EXTINF:-1 tvg-id="3glrw7hnejegqdy" tvg-name="01:00 - 16/06 | Huracan Women VS Ferro Carril Oeste Women (Argentine Women's League)" tvg-logo="https://img.sports-data.online/football/team/40eb8c464e761c42042ff3dbca191687.png" group-title="TiếuLâm TV",01:00 - 16/06 | Huracan Women VS Ferro Carril Oeste Women (Argentine Women's League)
+https://live.lisport.eu.cc/live/9a1d34a8fc744aa79a8de5ff13fcbae1/playlist.m3u8
+#EXTINF:-1 tvg-id="3glrw7hnejevqdy" tvg-name="01:00 - 16/06 | Banfield Women VS Racing Club Women (Argentine Women's League)" tvg-logo="https://img.sports-data.online/football/team/3c5534418479341c52ee668eef8af1e1.png" group-title="TiếuLâm TV",01:00 - 16/06 | Banfield Women VS Racing Club Women (Argentine Women's League)
+https://live.lisport.eu.cc/live/f6dbc7c7e0b94d3b82debce549ff2333/playlist.m3u8
+#EXTINF:-1 tvg-id="3glrw7hneok4qdy" tvg-name="01:00 - 16/06 | Deportivo Llacuabamba VS UTC Cajamarca (International Club Friendly)" tvg-logo="https://img.sports-data.online/football/team/2b29350d1f6aae9a640b63bf5be03aed.png" group-title="TiếuLâm TV",01:00 - 16/06 | Deportivo Llacuabamba VS UTC Cajamarca (International Club Friendly)
+https://live.lisport.eu.cc/live/0ebcf0ef0db84ac38e660789a8996947/playlist.m3u8
+#EXTINF:-1 tvg-id="dn1m1ghldnp4moe" tvg-name="01:00 - 16/06 | Mageense FC VS Ceres (Brazilian Campeonato Carioca Série B1)" tvg-logo="https://img.sports-data.online/football/team/62560a162d44c57bf344923620384eb0.png" group-title="TiếuLâm TV",01:00 - 16/06 | Mageense FC VS Ceres (Brazilian Campeonato Carioca Série B1)
+https://live.lisport.eu.cc/live/899f876e47ce4548b1d37419e0ea6412/playlist.m3u8
+#EXTINF:-1 tvg-id="k82rekhgd320rep" tvg-name="01:00 - 16/06 | Atletico Rafaela Reserves VS Deportivo Riestra Reserves (Argentine Reserve League)" tvg-logo="https://img.sports-data.online/football/team/044689532816618f31bbd5e5cfc3fe15.png" group-title="TiếuLâm TV",01:00 - 16/06 | Atletico Rafaela Reserves VS Deportivo Riestra Reserves (Argentine Reserve League)
+https://live.lisport.eu.cc/live/88fe6ff0830c479b9ac13695f2046b90/playlist.m3u8
+#EXTINF:-1 tvg-id="l5ergph4dvkpr8k" tvg-name="01:00 - 16/06 | Kongsvinger IL B VS Skjetten Fotball (Norwegian 3.Divisjon)" tvg-logo="https://img.sports-data.online/football/team/588b498cd9e09027ff24d2cd9feb3320.png" group-title="TiếuLâm TV",01:00 - 16/06 | Kongsvinger IL B VS Skjetten Fotball (Norwegian 3.Divisjon)
+https://live.lisport.eu.cc/live/81645b6adf27413cb60642173b9b25d9/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhyw9w4ryk" tvg-name="01:00 - 16/06 | CA Independiente Women VS Boca Juniors Women (Argentine Women's League)" tvg-logo="https://img.sports-data.online/football/team/257369ccb4ed621dd28b9e566d844afd.png" group-title="TiếuLâm TV",01:00 - 16/06 | CA Independiente Women VS Boca Juniors Women (Argentine Women's League)
+https://live.lisport.eu.cc/live/dc45da63e22e4280a6070ce10dc95ad1/playlist.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8d10vqwz" tvg-name="01:00 - 16/06 | Deportivo Llacuabamba VS UTC Cajamarca (Peru Liga Copa)" tvg-logo="https://img.sports-data.online/football/team/2b29350d1f6aae9a640b63bf5be03aed.png" group-title="TiếuLâm TV",01:00 - 16/06 | Deportivo Llacuabamba VS UTC Cajamarca (Peru Liga Copa)
+https://live.lisport.eu.cc/live/b1d3c29efd274b88916a180cf17a9293/playlist.m3u8
+#EXTINF:-1 tvg-id="y39mp1h6z376moj" tvg-name="01:00 - 16/06 | KA Akureyri VS Fram Reykjavik (Iceland Besta-deild karla)" tvg-logo="https://img.sports-data.online/football/team/5aa5f2f1a954448fd5bef463a34830b0.png" group-title="TiếuLâm TV",01:00 - 16/06 | KA Akureyri VS Fram Reykjavik (Iceland Besta-deild karla)
+https://live.lisport.eu.cc/live/19805b4aa6b746e1837bd19b8186cd99/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhy5o04ryk" tvg-name="01:30 - 16/06 | Defensores de Cambaceres VS Berazategui (Argentine Group C Tebolidun League Manchester)" tvg-logo="https://img.sports-data.online/football/team/a9b3eea718a9c4bbe3bfcb64b0b0f548.png" group-title="TiếuLâm TV",01:30 - 16/06 | Defensores de Cambaceres VS Berazategui (Argentine Group C Tebolidun League Manchester)
+https://live.secufun.xyz/live/8b51241623fa140ed0805b1bbc51ed61/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhyw9y3ryk" tvg-name="01:30 - 16/06 | CA Fenix Pilar VS Leones de Rosario (Argentine Group C Tebolidun League Manchester)" tvg-logo="https://img.sports-data.online/football/team/2205c6803cd223685f4d70d206d3ebb3.png" group-title="TiếuLâm TV",01:30 - 16/06 | CA Fenix Pilar VS Leones de Rosario (Argentine Group C Tebolidun League Manchester)
+https://live.lisport.eu.cc/live/339556d2e7ad43adb4f90aff50b1aea7/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghel6ojr6o" tvg-name="01:30 - 16/06 | Sacachispas VS Argentino de Rosario (Argentine Group C Tebolidun League Manchester)" tvg-logo="https://img.sports-data.online/football/team/0d31de8ecae14601bc746cb946011032.png" group-title="TiếuLâm TV",01:30 - 16/06 | Sacachispas VS Argentino de Rosario (Argentine Group C Tebolidun League Manchester)
+https://live.lisport.eu.cc/live/b4bca40ebf404d37a4cc6f60f8a6de45/playlist.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjzedwm2w" tvg-name="01:30 - 16/06 | Sportivo Barracas VS General Lamadrid (Argentine Group C Tebolidun League Manchester)" tvg-logo="https://img.sports-data.online/football/team/c9ac34f38d3730f978879e2840555ef8.png" group-title="TiếuLâm TV",01:30 - 16/06 | Sportivo Barracas VS General Lamadrid (Argentine Group C Tebolidun League Manchester)
+https://live.lisport.eu.cc/live/5f32d591cf6e4163877d34d15ca832dd/playlist.m3u8
+#EXTINF:-1 tvg-id="l5ergph4jvlvr8k" tvg-name="02:00 - 16/06 | FC Arbaer VS Ymir (Iceland Division 3)" tvg-logo="https://img.sports-data.online/football/team/2ecb0e2a0a6807eea7a09c9d6d068b7c.png" group-title="TiếuLâm TV",02:00 - 16/06 | FC Arbaer VS Ymir (Iceland Division 3)
+https://live.lisport.eu.cc/live/8769b689b9494cc5a866435ef322816f/playlist.m3u8
+#EXTINF:-1 tvg-id="4wyrn4h61doeq86" tvg-name="02:15 - 16/06 | KV Reykjavik VS KH Hlidarendi (Iceland Division 3)" tvg-logo="https://img.sports-data.online/football/team/73b974f46b18e3619ac39fe99a606b97.png" group-title="TiếuLâm TV",02:15 - 16/06 | KV Reykjavik VS KH Hlidarendi (Iceland Division 3)
+https://live.lisport.eu.cc/live/e43976cd587d402088e6bfc2c1cc638f/playlist.m3u8
+#EXTINF:-1 tvg-id="965mkyhky82gr1g" tvg-name="02:15 - 16/06 | UMF Selfoss VS Throttur Vogum (Iceland Division 2)" tvg-logo="https://img.sports-data.online/football/team/5cf943ab90632ba514c4c60716d4fd86.png" group-title="TiếuLâm TV",02:15 - 16/06 | UMF Selfoss VS Throttur Vogum (Iceland Division 2)
+https://live.lisport.eu.cc/live/538e30c0fc284fceb30fa75da024bc56/playlist.m3u8
+#EXTINF:-1 tvg-id="ednm9whw752eryo" tvg-name="02:15 - 16/06 | Fjolnir VS Kari Akranes (Iceland Division 2)" tvg-logo="https://img.sports-data.online/football/team/0ee5c26505c4f986566e9a6064f6ba0e.png" group-title="TiếuLâm TV",02:15 - 16/06 | Fjolnir VS Kari Akranes (Iceland Division 2)
+https://live.lisport.eu.cc/live/2042ae7f6b714c3985fb214fa0d7ea22/playlist.m3u8
+#EXTINF:-1 tvg-id="1l4rjnh9pz39m7v" tvg-name="03:15 - 16/06 | CD Estudiantil CNI VS Deportivo Union Comercio (Copa de la Liga)" tvg-logo="https://img.sports-data.online/football/team/bf67ced583c5cabf14384f40726094f8.png" group-title="TiếuLâm TV",03:15 - 16/06 | CD Estudiantil CNI VS Deportivo Union Comercio (Copa de la Liga)
+https://live.lisport.eu.cc/live/2d1eb36a9e0e476299202999b91d0b5c/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8gheoj8gr6o" tvg-name="04:00 - 16/06 | Sportivo Belgrano VS Defensores Belgrano (VR) (ARFC)" tvg-logo="https://img.sports-data.online/football/team/adf49a4c834ae2d4e230cfa2a9171b06.png" group-title="TiếuLâm TV",04:00 - 16/06 | Sportivo Belgrano VS Defensores Belgrano (VR) (ARFC)
+https://live.lisport.eu.cc/live/41dad3b3b487424a9773ae51e100ecd9/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhyyoolryk" tvg-name="05:30 - 16/06 | Maringa FC VS Maranhao (Brazilian Serie C)" tvg-logo="https://img.sports-data.online/football/team/226b1d61306e4d7e705eaf8ec072b01c.png" group-title="TiếuLâm TV",05:30 - 16/06 | Maringa FC VS Maranhao (Brazilian Serie C)
+https://live.lisport.eu.cc/live/92b30c895873420ba76a2f9760b85c01/playlist.m3u8
+#EXTINF:-1 tvg-id="8yomo4h1jzz6q0j" tvg-name="06:00 - 16/06 | Christos FC VS Annapolis Blues (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/6e9a6768f3df8b0096774ab3d53ac3d9.png" group-title="TiếuLâm TV",06:00 - 16/06 | Christos FC VS Annapolis Blues (USL League Two)
+https://live.lisport.eu.cc/live/8cd2b9c7b3ec41d590182c689bfb111c/playlist.m3u8
+#EXTINF:-1 tvg-id="y0or5jh856nyqwz" tvg-name="06:00 - 16/06 | Bolivar VS Club Guabira (Bolivian Primera Division)" tvg-logo="https://img.sports-data.online/football/team/97b953630af2877305a6bcb90444dc72.png" group-title="TiếuLâm TV",06:00 - 16/06 | Bolivar VS Club Guabira (Bolivian Primera Division)
+https://live.lisport.eu.cc/live/77e98a827b3942ac85a1b7ea287d6b62/playlist.m3u8
+#EXTINF:-1 tvg-id="dj2ryohll00xq1z" tvg-name="06:30 - 16/06 | Ferroviaria SP VS Barra FC (Brazilian Serie C)" tvg-logo="https://img.sports-data.online/football/team/e3a20b05258d35543f806ee99d0fac67.png" group-title="TiếuLâm TV",06:30 - 16/06 | Ferroviaria SP VS Barra FC (Brazilian Serie C)
+https://live.lisport.eu.cc/live/a40297c6f3a042dd95375effe4f38a78/playlist.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjjeedm2w" tvg-name="06:30 - 16/06 | Ypiranga(RS) VS Botafogo PB (Brazilian Serie C)" tvg-logo="https://img.sports-data.online/football/team/c8c77c62228caa4d06a9d8819e4a1a4d.png" group-title="TiếuLâm TV",06:30 - 16/06 | Ypiranga(RS) VS Botafogo PB (Brazilian Serie C)
+https://live.lisport.eu.cc/live/6a4774fec063466f8dc3ead0f992523e/playlist.m3u8
+#EXTINF:-1 tvg-id="965mkyhkk34gr1g" tvg-name="07:00 - 16/06 | Londrina PR VS Avaí FC (Brazilian Serie B)" tvg-logo="https://img.sports-data.online/football/team/9d3195be22d95cf5d35790272afc724a.png" group-title="TiếuLâm TV",07:00 - 16/06 | Londrina PR VS Avaí FC (Brazilian Serie B)
+https://live.lisport.eu.cc/live/04d40e43abb9435380d136b66ac20e06/playlist.m3u8
+#EXTINF:-1 tvg-id="zp5rzghggz7zq82" tvg-name="07:00 - 16/06 | Criciuma VS Ceara (Brazilian Serie B)" tvg-logo="https://img.sports-data.online/football/team/1105c0c62d761d64b6f4c3e34f460278.png" group-title="TiếuLâm TV",07:00 - 16/06 | Criciuma VS Ceara (Brazilian Serie B)
+https://live.lisport.eu.cc/live/9d7bd19ecc8e4190bafce2f0d2a839ca/playlist.m3u8
+#EXTINF:-1 tvg-id="6ypq3nhvp2ngmd7" tvg-name="07:30 - 16/06 | SV Dakota VS SV Sporting (Aruba Division Di Honor)" tvg-logo="https://img.sports-data.online/football/team/f59c0f419d3806670e800ed3c52823d1.png" group-title="TiếuLâm TV",07:30 - 16/06 | SV Dakota VS SV Sporting (Aruba Division Di Honor)
+https://live.lisport.eu.cc/live/c8c31adb966b492fb56e9f810697bba5/playlist.m3u8
+#EXTINF:-1 tvg-id="jw2r09hkdx6jrz8" tvg-name="08:00 - 16/06 | Real Colorado Foxes VS Atletico Union (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/3a4e4fffd6008f30cd056f416cd336fc.png" group-title="TiếuLâm TV",08:00 - 16/06 | Real Colorado Foxes VS Atletico Union (USL League Two)
+https://live.lisport.eu.cc/live/19e09c084c7d4c6990dbf40a441e30e3/playlist.m3u8
+#EXTINF:-1 tvg-id="jw2r09hk000erz8" tvg-name="16:30 - 16/06 | Wynnum Wolves VS Eastern Suburbs Brisbane (Australia National Premier Leagues Queensland)" tvg-logo="https://img.sports-data.online/football/team/631f4c9f257f5c69bffdee8c9541e95c.png" group-title="TiếuLâm TV",16:30 - 16/06 | Wynnum Wolves VS Eastern Suburbs Brisbane (Australia National Premier Leagues Queensland)
+https://live.lisport.eu.cc/live/7f824e5f7f0d4ddeb29e169563f53931/playlist.m3u8
+#EXTINF:-1 tvg-id="jw2r09hk02v3rz8" tvg-name="16:30 - 16/06 | Redlands United FC VS Sunshine Coast Wanderers FC (Australia Queensland State League 1)" tvg-logo="https://img.sports-data.online/football/team/5e2d4f203eeb88f0d994b4db76cf3926.png" group-title="TiếuLâm TV",16:30 - 16/06 | Redlands United FC VS Sunshine Coast Wanderers FC (Australia Queensland State League 1)
+https://live.lisport.eu.cc/live/8499ff924fbf4a65b1f4bb0febfa7b9d/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8gheop1pr6o" tvg-name="16:30 - 16/06 | Brunswick Juventus VS FC Bulleen Lions (Australia FFA Cup)" tvg-logo="https://img.sports-data.online/football/team/2f863cf32a3db0c0eef9647572583d7c.png" group-title="TiếuLâm TV",16:30 - 16/06 | Brunswick Juventus VS FC Bulleen Lions (Australia FFA Cup)
+https://live.lisport.eu.cc/live/0789cc31bcf34dad971a6a0d9f15fe86/playlist.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8oozjqwz" tvg-name="16:30 - 16/06 | Gold Coast Knights VS Queensland Lions SC (Australia National Premier Leagues Queensland)" tvg-logo="https://img.sports-data.online/football/team/165b0184ea713b45d4453dd4e4fdfdb2.png" group-title="TiếuLâm TV",16:30 - 16/06 | Gold Coast Knights VS Queensland Lions SC (Australia National Premier Leagues Queensland)
+https://live.lisport.eu.cc/live/42d71cc027f54aeba967a4c3f96b222d/playlist.m3u8
+#EXTINF:-1 tvg-id="8yomo4h1j2j1q0j" tvg-name="17:00 - 16/06 | Bahir Dar Kenema FC VS Sidama Bunna (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/8b84d9f2f41f55c79d2ce540a6852404.png" group-title="TiếuLâm TV",17:00 - 16/06 | Bahir Dar Kenema FC VS Sidama Bunna (Ethiopia Premier League)
+https://live.lisport.eu.cc/live/1e9659d261ae4e83b55451be2545d758/playlist.m3u8
+#EXTINF:-1 tvg-id="k82rekhgdyp6rep" tvg-name="17:00 - 16/06 | Ugyen Academy VS Thimphu Raven FC (Bhutan Premier League)" tvg-logo="https://img.sports-data.online/football/team/fe187f41074584d64dcc1fb0133d145e.png" group-title="TiếuLâm TV",17:00 - 16/06 | Ugyen Academy VS Thimphu Raven FC (Bhutan Premier League)
+https://live.lisport.eu.cc/live/ab7640458f5e498193cc9ae066e73149/playlist.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghn99znm0v" tvg-name="17:30 - 16/06 | Rochedale Rovers VS Moreton City Excelsior FC (Australia National Premier Leagues Queensland)" tvg-logo="https://img.sports-data.online/football/team/030a377635b3ac3fe5cbb49221594110.png" group-title="TiếuLâm TV",17:30 - 16/06 | Rochedale Rovers VS Moreton City Excelsior FC (Australia National Premier Leagues Queensland)
+https://live.lisport.eu.cc/live/25c3cdb215364305ac797ebcce605dea/playlist.m3u8
+#EXTINF:-1 tvg-id="3glrw7hnej2vqdy" tvg-name="18:00 - 16/06 | Bayswater City VS Perth RedStar (Australia FFA Cup)" tvg-logo="https://img.sports-data.online/football/team/15809b305455c1e964ccd454cc180e51.png" group-title="TiếuLâm TV",18:00 - 16/06 | Bayswater City VS Perth RedStar (Australia FFA Cup)
+https://live.lisport.eu.cc/live/3494af8223ef4eed824fd6500ee993a0/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8gheojdnr6o" tvg-name="18:00 - 16/06 | Fremantle City VS Olympic Kingsway SC (Australia FFA Cup)" tvg-logo="https://img.sports-data.online/football/team/a2db56c9ef2c5e1c6efb6e93f31ef7f9.png" group-title="TiếuLâm TV",18:00 - 16/06 | Fremantle City VS Olympic Kingsway SC (Australia FFA Cup)
+https://live.lisport.eu.cc/live/2d05be7a89554917ba6383f5ef532573/playlist.m3u8
+#EXTINF:-1 tvg-id="6ypq3nhvdzdkmd7" tvg-name="20:00 - 16/06 | Sheger Ketema VS Defence Force ETH (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/99943d6616c5240d42c5b9a7f79590b5.png" group-title="TiếuLâm TV",20:00 - 16/06 | Sheger Ketema VS Defence Force ETH (Ethiopia Premier League)
+https://live.lisport.eu.cc/live/cd8a6433609e41848df3c249ace4d712/playlist.m3u8
+#EXTINF:-1 tvg-id="jw2r09hk3zzdrz8" tvg-name="20:00 - 16/06 | Sheger Ketema VS Welwalo Adigrat (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/99943d6616c5240d42c5b9a7f79590b5.png" group-title="TiếuLâm TV",20:00 - 16/06 | Sheger Ketema VS Welwalo Adigrat (Ethiopia Premier League)
+https://live.lisport.eu.cc/live/4a3df0acba364062b0de480f5d6c022a/playlist.m3u8
+#EXTINF:-1 tvg-id="l5ergph4d1x7r8k" tvg-name="20:00 - 16/06 | Bahir Dar Kenema FC VS Wolaita Dicha (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/8b84d9f2f41f55c79d2ce540a6852404.png" group-title="TiếuLâm TV",20:00 - 16/06 | Bahir Dar Kenema FC VS Wolaita Dicha (Ethiopia Premier League)
+https://live.lisport.eu.cc/live/222e301bc81c46499bedcf0f3883020e/playlist.m3u8
+#EXTINF:-1 tvg-id="l5ergph4j389r8k" tvg-name="20:00 - 16/06 | Costa do Sol Maputo VS Chingale de Tete (Mozambique Championship)" tvg-logo="https://img.sports-data.online/football/team/2ca7fa5d73a49829eeb58c2887038fd7.png" group-title="TiếuLâm TV",20:00 - 16/06 | Costa do Sol Maputo VS Chingale de Tete (Mozambique Championship)
+https://live.lisport.eu.cc/live/28ea1ba07d054cd4abacb58ba81dd30f/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhyw9wnryk" tvg-name="20:00 - 16/06 | Ethio Electric FC VS Hawassa City (Ethiopia Premier League)" tvg-logo="https://img.sports-data.online/football/team/7dc5caf12e4dbe374f4ef41febaac087.png" group-title="TiếuLâm TV",20:00 - 16/06 | Ethio Electric FC VS Hawassa City (Ethiopia Premier League)
+https://live.lisport.eu.cc/live/fd32643ce6134c1681fe5e62f034bb76/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghe34g5r6o" tvg-name="20:00 - 16/06 | Namungo FC VS Tabora United FC (Tanzanian Premier League)" tvg-logo="https://img.sports-data.online/football/team/6a769513e87cd86cdae6a3b088f6a9a3.png" group-title="TiếuLâm TV",20:00 - 16/06 | Namungo FC VS Tabora United FC (Tanzanian Premier League)
+https://live.lisport.eu.cc/live/26925c6c05f441199470fcef4b638107/playlist.m3u8
+#EXTINF:-1 tvg-id="318q66hxdvygqo9" tvg-name="22:00 - 16/06 | Transinvest VS FK Riteriai (Lithuanian A Lyga )" tvg-logo="https://img.sports-data.online/football/team/46c06cac651dff265a7df38f3d523813.png" group-title="TiếuLâm TV",22:00 - 16/06 | Transinvest VS FK Riteriai (Lithuanian A Lyga )
+https://live.lisport.eu.cc/live/5e9f7696d69e4d9b8f9fe99c7b331f9b/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhy0k4oryk" tvg-name="22:00 - 16/06 | Bafmeng United VS Tonnerre Yaounde (Cameroon Elite two)" tvg-logo="https://img.sports-data.online/football/team/23640f129984ca18e6fc15a8273ee4d8.jfif" group-title="TiếuLâm TV",22:00 - 16/06 | Bafmeng United VS Tonnerre Yaounde (Cameroon Elite two)
+https://live.lisport.eu.cc/live/d7e28820a7d54436b91f287c08ad1dc6/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghe7n44r6o" tvg-name="22:00 - 16/06 | Viking Women VS Honefoss Women (Norwegian Women's Cup)" tvg-logo="https://img.sports-data.online/football/team/588079e769753c4f84b8e5ea21d1d4cf.png" group-title="TiếuLâm TV",22:00 - 16/06 | Viking Women VS Honefoss Women (Norwegian Women's Cup)
+https://live.lisport.eu.cc/live/44549331659c43c6b9986982eb16c1f9/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghe7z11r6o" tvg-name="22:00 - 16/06 | Yafoot FC Yaounde II VS Bamboutos de (Cameroon Elite two)" tvg-logo="https://img.sports-data.online/football/team/8620ff2fabea5f9e4cc2f50f9672e174.png" group-title="TiếuLâm TV",22:00 - 16/06 | Yafoot FC Yaounde II VS Bamboutos de (Cameroon Elite two)
+https://live.lisport.eu.cc/live/ce7fc8a0ac5043c981e8847c26e484c0/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghee8v8r6o" tvg-name="22:00 - 16/06 | BFC Daugavpils VS Super Nova (Latvian Higher League)" tvg-logo="https://img.sports-data.online/football/team/3be559332e6a0ca7c23f3f2a011a2ca2.png" group-title="TiếuLâm TV",22:00 - 16/06 | BFC Daugavpils VS Super Nova (Latvian Higher League)
+https://live.lisport.eu.cc/live/51835d8d56ed484b8d4c36b1c718e3f6/playlist.m3u8
+#EXTINF:-1 tvg-id="y39mp1h6e229moj" tvg-name="22:00 - 16/06 | AS Fap VS Union Douala (Cameroon Elite two)" tvg-logo="https://img.sports-data.online/football/team/eccffaa9a4af465762d5ae3ac7df36ef.jfif" group-title="TiếuLâm TV",22:00 - 16/06 | AS Fap VS Union Douala (Cameroon Elite two)
+https://live.lisport.eu.cc/live/b1db890a1205451ab0930cfa5b3aee12/playlist.m3u8
+#EXTINF:-1 tvg-id="dn1m1ghldnypmoe" tvg-name="22:30 - 16/06 | Suduva VS Siauliai (Lithuanian A Lyga )" tvg-logo="https://img.sports-data.online/football/team/7ddeb762b81e7575623341d01c90d478.png" group-title="TiếuLâm TV",22:30 - 16/06 | Suduva VS Siauliai (Lithuanian A Lyga )
+https://live.lisport.eu.cc/live/cdfdb369b0744d98b2a6f06e8844ffb7/playlist.m3u8
+#EXTINF:-1 tvg-id="23xmvkh6zk3gqg8" tvg-name="23:00 - 16/06 | FC Kose VS Kummik (Estonian Cup)" tvg-logo="https://img.sports-data.online/football/team/bc9da93767df800a8f41958fdb9225a0.png" group-title="TiếuLâm TV",23:00 - 16/06 | FC Kose VS Kummik (Estonian Cup)
+https://live.lisport.eu.cc/live/809c66ec11ca4b52a084299e3669f8f1/playlist.m3u8
+#EXTINF:-1 tvg-id="k82rekhgwg95rep" tvg-name="23:00 - 16/06 | FC Kuressaare VS Trans Narva (Estonian Premium Liiga)" tvg-logo="https://img.sports-data.online/football/team/0fc67908929739f961b1fd7a89f0ae4e.png" group-title="TiếuLâm TV",23:00 - 16/06 | FC Kuressaare VS Trans Narva (Estonian Premium Liiga)
+https://live.lisport.eu.cc/live/e1fb29ca2f434e3087b4ac40c584e04e/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhyeg1lryk" tvg-name="23:00 - 16/06 | Azam VS Mashujaa FC (Tanzanian Premier League)" tvg-logo="https://img.sports-data.online/football/team/b39c4ae2f1c269f7c223ab3158a939f9.png" group-title="TiếuLâm TV",23:00 - 16/06 | Azam VS Mashujaa FC (Tanzanian Premier League)
+https://live.lisport.eu.cc/live/3282066847914f428885c62a6f4c38e1/playlist.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjjwg9m2w" tvg-name="23:00 - 16/06 | Grobina VS FK Liepaja (Latvian Higher League)" tvg-logo="https://img.sports-data.online/football/team/aaa5f2303372acf85e4a24568b5855a0.png" group-title="TiếuLâm TV",23:00 - 16/06 | Grobina VS FK Liepaja (Latvian Higher League)
+https://live.lisport.eu.cc/live/6641f54e92ab459ba468f431f02d4a15/playlist.m3u8
+#EXTINF:-1 tvg-id="y39mp1h6z652moj" tvg-name="23:00 - 16/06 | Parnu JK Vaprus VS FC Flora Tallinn (Estonian Premium Liiga)" tvg-logo="https://img.sports-data.online/football/team/f7bea3c6841bf39a05df6c07654413b3.png" group-title="TiếuLâm TV",23:00 - 16/06 | Parnu JK Vaprus VS FC Flora Tallinn (Estonian Premium Liiga)
+https://live.lisport.eu.cc/live/77ec70b25cba4be5aa370f390d897731/playlist.m3u8
+#EXTINF:-1 tvg-id="23xmvkh622xjqg8" tvg-name="23:30 - 16/06 | Greater Tomorrow FC VS BST Galaxy (Gambia League First Division)" tvg-logo="https://img.sports-data.online/football/team/f214ef46f0a17f6cb5e311a00cc7600e.png" group-title="TiếuLâm TV",23:30 - 16/06 | Greater Tomorrow FC VS BST Galaxy (Gambia League First Division)
+https://live.lisport.eu.cc/live/40bc6a76a4ba4774854eb0700c2cde0a/playlist.m3u8
+#EXTINF:-1 tvg-id="4wyrn4h61dpxq86" tvg-name="23:30 - 16/06 | FK Zalgiris Vilnius VS FK Panevezys (Lithuanian A Lyga )" tvg-logo="https://img.sports-data.online/football/team/c44fca0a4232a01fc936277c51f0fdcb.png" group-title="TiếuLâm TV",23:30 - 16/06 | FK Zalgiris Vilnius VS FK Panevezys (Lithuanian A Lyga )
+https://live.lisport.eu.cc/live/dbe11c81e66d4dafa0e41b099e65f224/playlist.m3u8
+#EXTINF:-1 tvg-id="l7oqdehgxxeer51" tvg-name="23:30 - 16/06 | Steve Biko FC VS Falcons FC (Gambia League First Division)" tvg-logo="https://img.sports-data.online/football/team/11db8d9f400b3d5c8c927400312d462b.png" group-title="TiếuLâm TV",23:30 - 16/06 | Steve Biko FC VS Falcons FC (Gambia League First Division)
+https://live.lisport.eu.cc/live/50d8bc24dd6d43fb90d908cd679a77d2/playlist.m3u8
+#EXTINF:-1 tvg-id="zp5rzghgoo2vq82" tvg-name="23:30 - 16/06 | TMT FA VS Banjul Hawks FC (Gambia League First Division)" tvg-logo="https://img.sports-data.online/football/team/e9a4f08b2e56edde8055312621875e31.png" group-title="TiếuLâm TV",23:30 - 16/06 | TMT FA VS Banjul Hawks FC (Gambia League First Division)
+https://live.lisport.eu.cc/live/34da83c7c07f4f849dcbffee5785bc16/playlist.m3u8
+#EXTINF:-1 tvg-id="3glrw7hn3lo2qdy" tvg-name="00:00 - 17/06 | IFK Varnamo VS Helsingborg (Sweden Superettan)" tvg-logo="https://img.sports-data.online/football/team/d4122e5bd6993271be41a1d941521a00.png" group-title="TiếuLâm TV",00:00 - 17/06 | IFK Varnamo VS Helsingborg (Sweden Superettan)
+https://live.lisport.eu.cc/live/b0a252fe7b8643ce8d782df81488d752/playlist.m3u8
+#EXTINF:-1 tvg-id="l7oqdehg8e1gr51" tvg-name="00:00 - 17/06 | Landskrona BoIS VS Nordic United FC (Sweden Superettan)" tvg-logo="https://img.sports-data.online/football/team/d39fe6e26091aeafd9098f6c61433716.png" group-title="TiếuLâm TV",00:00 - 17/06 | Landskrona BoIS VS Nordic United FC (Sweden Superettan)
+https://live.lisport.eu.cc/live/8a9628caa44c4707a85d8921c41c3b11/playlist.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghnne9zm0v" tvg-name="01:00 - 17/06 | America MG Youth VS Santos Youth (Campeonato Brasileiro Sub-20)" tvg-logo="https://img.sports-data.online/football/team/d6f540a14a29fded4b35eef61bc1356f.png" group-title="TiếuLâm TV",01:00 - 17/06 | America MG Youth VS Santos Youth (Campeonato Brasileiro Sub-20)
+https://live.lisport.eu.cc/live/b635fe69d00746399160a0db14b28f5b/playlist.m3u8
+#EXTINF:-1 tvg-id="k82rekhggwxerep" tvg-name="01:00 - 17/06 | Criciuma SC Youth VS Palmeiras Youth (Campeonato Brasileiro Sub-20)" tvg-logo="https://img.sports-data.online/football/team/b1d9a87d70fdc796bbdb269136c21ae1.png" group-title="TiếuLâm TV",01:00 - 17/06 | Criciuma SC Youth VS Palmeiras Youth (Campeonato Brasileiro Sub-20)
+https://live.lisport.eu.cc/live/999e66d6ee0f49cf8fbdc96f39bf3133/playlist.m3u8
+#EXTINF:-1 tvg-id="x7lm7phjd0y4m2w" tvg-name="01:00 - 17/06 | Ceara Youth VS Internacional RS U20 (Brazilian Youth Championship)" tvg-logo="https://img.sports-data.online/football/team/30f113c2cdcb3d5f6c3442aa430cdf3a.png" group-title="TiếuLâm TV",01:00 - 17/06 | Ceara Youth VS Internacional RS U20 (Brazilian Youth Championship)
+https://live.lisport.eu.cc/live/75d3de6bec8f47e19ab0ec08a625c157/playlist.m3u8
+#EXTINF:-1 tvg-id="zp5rzghgg5w4q82" tvg-name="01:00 - 17/06 | Atletico Paranaense Youth VS Cruzeiro Youth (Campeonato Brasileiro Sub-20)" tvg-logo="https://img.sports-data.online/football/team/232acc4bae3303985f96fbe550b0eb93.png" group-title="TiếuLâm TV",01:00 - 17/06 | Atletico Paranaense Youth VS Cruzeiro Youth (Campeonato Brasileiro Sub-20)
+https://live.lisport.eu.cc/live/5e4f2f85257e4e5abae8726cfad924ca/playlist.m3u8
+#EXTINF:-1 tvg-id="965mkyhko0wjr1g" tvg-name="02:00 - 17/06 | France VS Senegal (FIFA World Cup)" tvg-logo="https://img.sports-data.online/football/team/c25d791bcb75569e9e2538e6c88dcad4.png" group-title="TiếuLâm TV",02:00 - 17/06 | France VS Senegal (FIFA World Cup)
+https://live.lisport.eu.cc/live/0fafc8fbb71640ecb892d3fa41a868f1/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhyne5nryk" tvg-name="02:00 - 17/06 | Always Ready VS Universitario De Vinto (Bolivian Primera Division)" tvg-logo="https://img.sports-data.online/football/team/4f5b815aa7bca0be2a325494997ad29e.png" group-title="TiếuLâm TV",02:00 - 17/06 | Always Ready VS Universitario De Vinto (Bolivian Primera Division)
+https://live.lisport.eu.cc/live/e13e40f0071d42e8855c212b6945ff51/playlist.m3u8
+#EXTINF:-1 tvg-id="1l4rjnh946v5m7v" tvg-name="02:15 - 17/06 | Akranes VS Valur Reykjavik (Iceland Besta-deild karla)" tvg-logo="https://img.sports-data.online/football/team/9ea788376ee5eb240491893729802749.png" group-title="TiếuLâm TV",02:15 - 17/06 | Akranes VS Valur Reykjavik (Iceland Besta-deild karla)
+https://live.lisport.eu.cc/live/a5e2c11ef38741c19e59f04cac2159b9/playlist.m3u8
+#EXTINF:-1 tvg-id="965mkyhky7pyr1g" tvg-name="02:15 - 17/06 | Stjarnan Gardabaer VS Breidablik (Iceland Besta-deild karla)" tvg-logo="https://img.sports-data.online/football/team/6c69fc2cbf514787c61e2b9e5e55674b.jpg" group-title="TiếuLâm TV",02:15 - 17/06 | Stjarnan Gardabaer VS Breidablik (Iceland Besta-deild karla)
+https://live.lisport.eu.cc/live/2a09615174504392bff575d246473e53/playlist.m3u8
+#EXTINF:-1 tvg-id="k82rekhgwvl2rep" tvg-name="02:15 - 17/06 | Vikingur Reykjavik VS KR Reykjavik (Iceland Besta-deild karla)" tvg-logo="https://img.sports-data.online/football/team/7d980021e4160be27df269c331beab96.png" group-title="TiếuLâm TV",02:15 - 17/06 | Vikingur Reykjavik VS KR Reykjavik (Iceland Besta-deild karla)
+https://live.lisport.eu.cc/live/93372e20bc834ab8a1ff30c5f35032a2/playlist.m3u8
+#EXTINF:-1 tvg-id="l5ergph4jvx4r8k" tvg-name="04:00 - 17/06 | New Jersey Copa VS Staten Island ASC (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/e9d77b0e1db57071570fc61fc8d63133.png" group-title="TiếuLâm TV",04:00 - 17/06 | New Jersey Copa VS Staten Island ASC (USL League Two)
+https://live.lisport.eu.cc/live/5bc3f5827bd4445a8786d085ceb8ba13/playlist.m3u8
+#EXTINF:-1 tvg-id="jw2r09hkdxy5rz8" tvg-name="05:00 - 17/06 | AFC Cleveland VS Yili Sports Center (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/138b4ed9a0eefa2b230109eec6a23ae4.png" group-title="TiếuLâm TV",05:00 - 17/06 | AFC Cleveland VS Yili Sports Center (USL League Two)
+https://live.lisport.eu.cc/live/50394c7eb21140719986f6049281aaae/playlist.m3u8
+#EXTINF:-1 tvg-id="y0or5jh8owd5qwz" tvg-name="05:00 - 17/06 | Iraq VS Norway (FIFA World Cup)" tvg-logo="https://img.sports-data.online/football/team/85eba6905189dba3b9de6342ede53150.png" group-title="TiếuLâm TV",05:00 - 17/06 | Iraq VS Norway (FIFA World Cup)
+https://live.lisport.eu.cc/live/d4df3fc1faab44d29b08c04c35fc062d/playlist.m3u8
+#EXTINF:-1 tvg-id="4jwq2ghnnvk7m0v" tvg-name="06:00 - 17/06 | Fortaleza VS America MG (Brazilian Serie B)" tvg-logo="https://img.sports-data.online/football/team/84f85d4178e4287ed8ad5f76ad4c5e46.png" group-title="TiếuLâm TV",06:00 - 17/06 | Fortaleza VS America MG (Brazilian Serie B)
+https://live.lisport.eu.cc/live/c0e02f31df5043da841f4fe2ab6a4dff/playlist.m3u8
+#EXTINF:-1 tvg-id="6ypq3nhvdzyymd7" tvg-name="06:00 - 17/06 | Vermont Green VS Seacoast Utd Phantoms (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/ea661a6cada8b11b916dc91b5556fc25.png" group-title="TiếuLâm TV",06:00 - 17/06 | Vermont Green VS Seacoast Utd Phantoms (USL League Two)
+https://live.lisport.eu.cc/live/e54a6805d55a4d52aa440d185b2ed655/playlist.m3u8
+#EXTINF:-1 tvg-id="8yomo4h1j2loq0j" tvg-name="06:00 - 17/06 | Reading United VS Real Central NJ (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/010ab020a562089728a500c9127fe2a4.png" group-title="TiếuLâm TV",06:00 - 17/06 | Reading United VS Real Central NJ (USL League Two)
+https://live.lisport.eu.cc/live/efeb528bbe25427aa2dd5ccae06cf81b/playlist.m3u8
+#EXTINF:-1 tvg-id="dj2ryohl3j69q1z" tvg-name="06:00 - 17/06 | Eagle FC VS LVU Rush (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/27486507d834c7afba002c855ff27f3f.png" group-title="TiếuLâm TV",06:00 - 17/06 | Eagle FC VS LVU Rush (USL League Two)
+https://live.lisport.eu.cc/live/e5ebfcde9aeb4db09066ec64e6817965/playlist.m3u8
+#EXTINF:-1 tvg-id="l7oqdehgz4wxr51" tvg-name="06:00 - 17/06 | Boston Bolts VS Boston City FC (USA） (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/b8f4dc931830c2f9cfe687bb61882e81.png" group-title="TiếuLâm TV",06:00 - 17/06 | Boston Bolts VS Boston City FC (USA） (USL League Two)
+https://live.lisport.eu.cc/live/8be2b83c0a0b44e5885aaa6d608b0e48/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhyw984ryk" tvg-name="06:30 - 17/06 | Manhattan SC VS Long Island Rough Riders (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/b5091bd8684978495b5ef93955a1dd57.jpg" group-title="TiếuLâm TV",06:30 - 17/06 | Manhattan SC VS Long Island Rough Riders (USL League Two)
+https://live.lisport.eu.cc/live/0b2dc94ed9a0438ea4208e34409222e1/playlist.m3u8
+#EXTINF:-1 tvg-id="2y8m4zh5dgydql0" tvg-name="07:00 - 17/06 | AC Houston Sur VS GFI Woodlands (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/a3bd3af1f3b16e8678653543fc156a2c.png" group-title="TiếuLâm TV",07:00 - 17/06 | AC Houston Sur VS GFI Woodlands (USL League Two)
+https://live.lisport.eu.cc/live/d3f9e22992384f0d9e8b30e978a5ec25/playlist.m3u8
+#EXTINF:-1 tvg-id="pxwrxlhywjnkryk" tvg-name="07:00 - 17/06 | FC Motown B VS Hudson Valley Hammers (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/4c9e35adf5307bc428dd59c230081c74.png" group-title="TiếuLâm TV",07:00 - 17/06 | FC Motown B VS Hudson Valley Hammers (USL League Two)
+https://live.lisport.eu.cc/live/f9a41fe961e04419a5254048e1b3d70c/playlist.m3u8
+#EXTINF:-1 tvg-id="3glrw7hney9xqdy" tvg-name="07:30 - 17/06 | West Chester United VS Junior Lone Star (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/e7c65b775dc540fcdde570193e1b5707.jpg" group-title="TiếuLâm TV",07:30 - 17/06 | West Chester United VS Junior Lone Star (USL League Two)
+https://live.lisport.eu.cc/live/0c8a7624047c4cd3b1ddd02f5ca69d77/playlist.m3u8
+#EXTINF:-1 tvg-id="3glrw7hngxppqdy" tvg-name="07:30 - 17/06 | SV La Fama VS SV Britannia (Aruba Division Di Honor)" tvg-logo="https://img.sports-data.online/football/team/577e0df3f80cd623c4b15f2f9d814468.png" group-title="TiếuLâm TV",07:30 - 17/06 | SV La Fama VS SV Britannia (Aruba Division Di Honor)
+https://live.lisport.eu.cc/live/dcac7f59ccb14a938596a0183ba7813a/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8gheo80yr6o" tvg-name="07:30 - 17/06 | Delaware VS Pennsylvania Classics (USL League Two)" tvg-logo="https://img.sports-data.online/football/team/117fa637f3fd32f0778ac3c4af42977d.png" group-title="TiếuLâm TV",07:30 - 17/06 | Delaware VS Pennsylvania Classics (USL League Two)
+https://live.lisport.eu.cc/live/9cbe63f1ee194b3c8e7a6c5c8509f993/playlist.m3u8
+#EXTINF:-1 tvg-id="318q66hxg33oqo9" tvg-name="08:00 - 17/06 | Argentina VS Algeria (FIFA World Cup)" tvg-logo="https://img.sports-data.online/football/team/e5e5e0f67481324ebdbd65d65890b2b8.png" group-title="TiếuLâm TV",08:00 - 17/06 | Argentina VS Algeria (FIFA World Cup)
+https://live.lisport.eu.cc/live/9079489f6d374c039f8b92e37e15d93b/playlist.m3u8
+#EXTINF:-1 tvg-id="vjxm8ghew7o6r6o" tvg-name="11:00 - 17/06 | Austria VS Jordan (FIFA World Cup)" tvg-logo="https://img.sports-data.online/football/team/be70130b180875a576e98a5a33c8238a.png" group-title="TiếuLâm TV",11:00 - 17/06 | Austria VS Jordan (FIFA World Cup)
+https://live.lisport.eu.cc/live/e5343e009e1e4b3486caff02ea058b6f/playlist.m3u8
