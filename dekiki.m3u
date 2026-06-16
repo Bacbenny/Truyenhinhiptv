@@ -306,7 +306,10 @@ https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangngai" tvg-name="QNgTV1 | Báo và Phát thanh – Truyền hình Quảng Ngãi" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/05/QNgTV1.png/revision/latest?cb=20260114143704&path-prefix=vi" group-title="Địa phương",QNgTV1 | Báo và Phát thanh – Truyền hình Quảng Ngãi
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="quangngai2" tvg-name="QNgTV2 | Báo và Phát thanh – Truyền hình Quảng Ngãi" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/QNgTV2.png/revision/latest?cb=20260114143705&path-prefix=vi" group-title="Địa phương",QNgTV2 | Báo và Phát thanh – Truyền hình Quảng Ngãi
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=173
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://sgchill.duckdns.org/source/fptplay.m3u8?id=quangngai2
 #EXTINF:-1 tvg-id="quangtri" tvg-name="QTTV | Báo và Phát thanh – Truyền hình Quảng Trị" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/QTTV.png/revision/latest?cb=20250705100526&path-prefix=vi" group-title="Địa phương",QTTV | Báo và Phát thanh – Truyền hình Quảng Trị
 https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="quangninh" tvg-name="QTV1 | Báo và Phát thanh – Truyền hình Quảng Ninh" tvg-logo="https://i.imgur.com/KVia0uU.png" group-title="Địa phương",QTV1 | Báo và Phát thanh – Truyền hình Quảng Ninh
@@ -316,7 +319,10 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="sonla" tvg-name="STV | Báo và Phát thanh – Truyền hình Sơn La" tvg-logo="https://i.imgur.com/xjkm6Zg.png" group-title="Địa phương",STV | Báo và Phát thanh – Truyền hình Sơn La
 https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tayninh" tvg-name="TayNinhTV | Báo và Phát thanh – Truyền hình Tây Ninh" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/TN_TayNinhTV_logo.png/revision/latest?cb=20251224141706&path-prefix=vi" group-title="Địa phương",TayNinhTV
-http://hoangai.dpdns.org:8082/mytv/get1.php?id=47
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:adaptive-variant=max
+#EXTVLCOPT:network-caching=5000
+https://sgchill.duckdns.org/source/fptplay.m3u8?id=tayninh
 #EXTINF:-1 tvg-id="dongthap" tvg-name="THĐT1 | Báo và Phát thanh – Truyền hình Đồng Tháp" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="Địa phương",THĐT1 | Báo và Phát thanh – Truyền hình Đồng Tháp
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dongthap2" tvg-name="THĐT2 – Miền Tây | Báo và Phát thanh – Truyền hình Đồng Tháp" tvg-logo="https://i.imgur.com/PfETBEp.png" group-title="Địa phương",THĐT2 – Miền Tây | Báo và Phát thanh – Truyền hình Đồng Tháp
